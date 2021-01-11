@@ -1,8 +1,7 @@
 
 # url: "https://eaton-lab.org" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "/hack-the-planet" # the subpath of your site, e.g. /blog
-
-url: "localhost:4000"
+# url: "localhost:4000"
 title: "EEEB G4050"
 
 markdown: kramdown
