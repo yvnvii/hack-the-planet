@@ -11,14 +11,14 @@ image: /assets/images/hackers-1.jpg
 Introductions and explanation of the Syllabus. Describe the *ethos* and goals of this class. Why learn to program? What is programming? 
 + In class:
 	- [Lecture 1](https://eaton-lab.org/hack-the-planet/lectures/session-1): programming ethos.  
-	- [Run notebook 1.1 on Binder](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (introduction to jupyter notebook.)
+	- [Connect to binder notebook server](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (1.1. introduction to jupyter notebook.)
 
 + Assignment:
 	- [Poll:](https://forms.gle/hJs3v5v6a5h7K76j6) on your experience with programming.
 	- [Watch: Unix history video](https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s) (Only watch up to 21:30).
 	- [Read linux tutorial](https://ryanstutorials.net/linuxtutorial/navigation.php) sections 1-5.
 	If you are on Windows and do not have WSL2 installed, then wait until next class before 
-	installing. For now, [use these instructions]()
+	installing. For now, [use these instructions](https://eaton-lab.org/hack-the-planet/assets/images/peek-connect-to-binder.gif)
 	to connect to a Linux terminal in the cloud to practice exercises in these readings.
 <hr>
 
