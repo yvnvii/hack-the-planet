@@ -6,8 +6,8 @@
 - name: Syllabus
   link: /pages/syllabus.html
 
-- name: Schedule
-  link: /pages/schedule.html
+# - name: Schedule
+  # link: /pages/schedule.html
 
 - name: Assignments
   link: /pages/assignments.html

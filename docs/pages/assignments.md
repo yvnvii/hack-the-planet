@@ -10,7 +10,7 @@ image: /assets/images/hackers-1.jpg
 + Learning objectives: 
 Introductions and explanation of the Syllabus. Describe the *ethos* and goals of this class. Why learn to program? What is programming? 
 + In class:
-	- [Lecture 1](): programming ethos.  
+	- [Lecture 1](https://eaton-lab.org/hack-the-planet/lectures/session-1): programming ethos.  
 	- [Activity: Notebook 1.1](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (introduction to jupyter notebook.)
 
 + Assignment:

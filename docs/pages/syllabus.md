@@ -24,7 +24,7 @@ image: /assets/images/hackers-5.jpg
 
 **Assessment/Grades:** Grades will not be curved. However, your grade will be assigned relative to the performance of your peers. The maximum grade will earn an A, and grades that are less than one-half of that maximum grade will be assigned an F. Between these values (max and ½ max) intervals equating to letter grades are divided equally. 
 
-Grades are based on participation (attendance and discussions), assignments, code reviews, projects proposals, and project presentations, and the final project.  
+Grades are based on participation (attendance and discussions), assignments, projects proposals, and project presentations, and the final project.  
 25% Participation  
 35% Assignments  
 10% Project proposal  
