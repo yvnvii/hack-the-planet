@@ -1,19 +1,20 @@
 
+
 url: "https://eaton-lab.org" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/hack-the-planet" # the subpath of your site, e.g. /blog
 
-# url: "localhost:4000"
-title: "EEEB G4050"
+title: "PDSB"
 
 markdown: kramdown
 highlighter: rouge
+
+# Markdown Processing
 kramdown:
   input: GFM
-  syntax_highlighter_opts:
-    default_lang: html
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 0
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false

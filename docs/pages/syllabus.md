@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Syllabus
-image: /assets/images/hackers-1.jpg
+image: /assets/images/hackers-5.jpg
 ---
 
-#### Syllabus: 
+## Syllabus: 
 - **Title:** Programming and Data Science for Biology (EEEB G4050)
 - **Term:** Spring 2021
 - **Department:** Ecology, Evolution, and Environmental Biology (E3B)
@@ -24,18 +24,19 @@ image: /assets/images/hackers-1.jpg
 
 **Assessment/Grades:** Grades will not be curved. However, your grade will be assigned relative to the performance of your peers. The maximum grade will earn an A, and grades that are less than one-half of that maximum grade will be assigned an F. Between these values (max and ½ max) intervals equating to letter grades are divided equally. 
 
-Grades are based on participation (attendance and discussions), assignments, code reviews, projects proposals, and project presentations, and the final project.
-25% Participation
-35% Assignments
-10% Project proposal
-10% Project presentation
-20% Project final
+Grades are based on participation (attendance and discussions), assignments, code reviews, projects proposals, and project presentations, and the final project.  
+25% Participation  
+35% Assignments  
+10% Project proposal  
+10% Project presentation  
+20% Project final  
 
 **Participation:** In addition to attendance you are expected to contribute to discussions in class by asking questions, and to interact with your peers through breakout session code reviews.
 
 
 **Assignments:** Code-based assignments are used to assess comprehension of new concepts learned in class. These are graded on effort, accuracy, and style. 
-Projects: A course project will be developed by each student. We will begin planning these very early in the class, well before you will have learned the skills to develop them. As we progress through class we will revisit and revise project proposals, while also discussing how the concepts we learn may be usefully applied to aspects of the projects. A formal project proposal is due halfways through class. Near the end of class students will give presentations on the status of their projects. The final projects will be published as open source code on github and evaluated on the basis of documentation, style, and a working example.
+
+**Projects:** A course project will be developed by each student. We will begin planning these very early in the class, well before you will have learned the skills to develop them. As we progress through class we will revisit and revise project proposals, while also discussing how the concepts we learn may be usefully applied to aspects of the projects. A formal project proposal is due halfways through class. Near the end of class students will give presentations on the status of their projects. The final projects will be published as open source code on github and evaluated on the basis of documentation, style, and a working example.
 
 **Attendance policy:** This course relies upon student participation and, thus, attendance is expected. Absences will incur a grade penalty unless excused. Students who are unable to attend class for health or other personal reasons should reach out to the instructors. We understand that there are many legitimate reasons for absences, so do please reach out.
 
