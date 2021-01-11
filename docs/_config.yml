@@ -3,7 +3,7 @@
 url: "https://eaton-lab.org" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/hack-the-planet" # the subpath of your site, e.g. /blog
 
-title: "PDSB"
+title: "Hack-the-planet"
 
 markdown: kramdown
 highlighter: rouge
