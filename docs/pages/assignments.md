@@ -1,6 +1,6 @@
 ---
 layout: default
-image: "/assets/images/hackers-5.jpg"
+image: /assets/images/hackers-5.jpg"
 ---
 
 
@@ -23,7 +23,7 @@ Introductions and explanation of the Syllabus. Describe the *ethos* and goals of
 
 #### Session 2
 + Date: 1/13/2021 (Wed.)  
-+ Learning objectives: file paths, Github, Markdown, clone a repo.  
++ Learning objectives: file paths, programs, Github, Git, clone a repo.  
 + In class:
 	- Lecture: programs/paths
 	- 

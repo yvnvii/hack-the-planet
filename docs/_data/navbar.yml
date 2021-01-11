@@ -1,10 +1,10 @@
 
 
 - name: About
-  link: {{ site.url }}/{{ base.baseurl }}
+  link: /
 
 - name: Syllabus
-  link: {{ site.url }}/{{ base.baseurl }}/pages/syllabus.html
+  link: /pages/syllabus.html
 
 - name: Schedule
   link: /pages/schedule.html
