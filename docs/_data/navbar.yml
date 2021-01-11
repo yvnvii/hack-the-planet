@@ -1,0 +1,26 @@
+
+
+- name: About
+  link: /
+
+- name: Syllabus
+  link: /pages/syllabus.html
+
+- name: Schedule
+  link: /pages/schedule.html
+
+- name: Assignments
+  link: /pages/assignments.html
+
+- name: Canvas
+  link: https://courseworks2.columbia.edu/courses/119078
+  external: true
+
+
+# - name: Resources
+#   dropdown:
+#     - name: Git Cheat Sheet
+#       link: /pages/cheat-git.html
+#     - name: GitHub Cheat Sheet
+#       link: /pages/cheat-github.html
+

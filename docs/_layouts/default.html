@@ -1,12 +1,30 @@
+
+
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  </head>
-  <body>
-    {{ content }}
-  </body>
+
+<html class="no-js" lang="en">
+<head>
+    {% include head.html %}
+</head>
+
+
+<body id="default">
+
+    <header>
+	    {% include navbar.html %}  
+	    {% include splash.html %}
+    </header>
+
+    <main role="main" class="container-md">
+    	<div class="col-sm-10 mx-auto">
+		    {{ content }}
+		</div>
+	</main>
+
+	<footer>
+	    {% include footer.html %}
+	    {% include scripts.html %}
+	</footer>
+
+</body>
 </html>

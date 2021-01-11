@@ -1,0 +1,19 @@
+
+
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}*/
+
+
+.jumbotron {
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url("/assets/images/classic-e3b-background.jpg");*/
+  /*background-image: url("{{site.url}}/assets/images/classic-e3b-background.jpg");  */
+  background-size: contain;
+  border-radius: 0px;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  height: 200px;
+  /*margin-bottom: 0;*/
+  /*background-color: #fff;*/
+}
