@@ -16,7 +16,8 @@ Introductions and explanation of the Syllabus. Describe the *ethos* and goals of
 + Assignment:
 	- [Poll:](https://forms.gle/hJs3v5v6a5h7K76j6) on your experience with programming.
 	- [Watch: Unix history video](https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s) (Only watch up to 21:30).
-	- [Notebook 1.2](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (introduction to bash terminal.)
+	- [Read linux tutorial](https://ryanstutorials.net/linuxtutorial/navigation.php) sections 1-5.
+	- [Notebook 1.2](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (introduction to bash terminal.) Complete this, but you do not need to save it or turn it in.
 
 <hr>
 
