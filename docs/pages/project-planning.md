@@ -1,6 +1,6 @@
 ---
 layout: default
-image: "/assets/images/hackers-1.jpg"
+image: /assets/images/hackers-1.jpg
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-image: {{ site.baseurl }}
+image: /assets/images/hackers-1.jpg
 ---
 
 <div class="container mb-4">

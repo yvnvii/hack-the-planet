@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Syllabus
-image: "{{ site.url }}{{ site.baseurl }}/assets/images/hackers-4.jpg"
+image: /assets/images/hackers-1.jpg
 ---
-<!-- image: "{ site.url }}{{ site.baseurl }}/assets/images/hackers-4.jpg" -->
-
 
 #### Syllabus: 
 - **Title:** Programming and Data Science for Biology (EEEB G4050)

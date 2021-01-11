@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hack the planet!"
-image: "{{ site.absolute_url }}/assets/images/hackers-3.webp"
+image: /assets/images/hackers-1.jpg
 ---
 
 

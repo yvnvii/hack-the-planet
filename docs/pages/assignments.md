@@ -1,8 +1,7 @@
 ---
 layout: default
-image: {{ site.absolute_url }}
+image: /assets/images/hackers-1.jpg
 ---
-
 
 <hr>
 #### Session 1
