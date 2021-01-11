@@ -4,6 +4,7 @@ image: /assets/images/hackers-1.jpg
 ---
 
 <hr>
+
 #### Session 1
 + Date: 1/11/2021 (Mon.)  
 + Learning objectives: 
