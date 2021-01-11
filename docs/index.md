@@ -24,29 +24,35 @@ to learn programming and data science skills on your own.
 By learning best practices for designing software tools you will 
 learn that *a lot* of scientific software is not actually very 
 well written or designed. By learning a framework for writing good
-software you will find that you can often contribute greatly to the 
+software you will find that you can contribute greatly to the 
 community of biologists by developing simple and efficient software tools.
 
 
 #### Inspiration
 The name and design of this site is inspired by the 
 [hit 1995 movie *Hackers*](https://en.wikipedia.org/wiki/Hackers_(film)). 
-If you have not seen it, I highly recommended it (I think you can find it streaming). Although you will not learn to "hack" in the strict sense
+If you have not seen it, I highly recommended it (I think you can find it streaming). 
+Although you will not learn to "hack" in the strict sense
 in this class, I do strongly promote the ethos of hacking in the sense
 of sitting down and hacking away at a problem until you learn to
-solve it. 
-Although you can learn a lot through tutorials, much of programming comes down to learning routines and muscle memory by practice. When you get stuck, 
-try, try, and try again until you can find a solution that works. And seek
-help. Treat this course like a hackathon, meet with your colleagues to 
-discuss and work on assignments together, to brainstorm project ideas, 
-and to solve hard problems. It should be fun.
+solve it, and in the sense of a community of hackers working together. 
 
-Finally, our theme of "hack the planet" borrowed from Hackers 
+Although you can learn a lot through tutorials, much of programming comes 
+down to learning routines and muscle memory by practice. When you get stuck, 
+try, try, and try again until you can find a solution that works. And seek
+help. Use google. And treat this course like a hackathon, 
+chat with your colleagues to discuss and work on assignments 
+together, to brainstorm project ideas, and to solve hard problems. 
+It should be fun.
+
+Finally, our theme of "hack the planet", borrowed from Hackers, 
 relates well to a focus of many students in this class, which is 
-computational biology. We will learn about finding, parsing, and
-analyzing large data sets, such as those used in genomics or 
-biodiversity research. Keep this theme in mind as you work through 
-the course.
+to study biology and the environment. 
+We will learn about finding, parsing, and analyzing large data sets, 
+such as those used in genomics or biodiversity research. 
+Keep this theme in mind as you work through the course, thinking 
+of the type of data you want to analyze.
+
 <div class="mt-4 mb-4 text-center">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hack-the-planet.gif">
 </div>
