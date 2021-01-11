@@ -1,6 +1,6 @@
 ---
 layout: default
-image: /assets/images/hackers-5.jpg"
+image: {{ site.absolute_url }}
 ---
 
 

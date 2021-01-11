@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Syllabus
-image: "/assets/images/hackers-4.jpg"
+image: "{{ site.url }}{{ site.baseurl }}/assets/images/hackers-4.jpg"
 ---
 <!-- image: "{ site.url }}{{ site.baseurl }}/assets/images/hackers-4.jpg" -->
 

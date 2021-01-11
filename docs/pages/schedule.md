@@ -1,6 +1,6 @@
 ---
 layout: default
-image: "https://storiescdn.hornet.com/wp-content/uploads/2016/03/18123023/hackers-film-movie-cast-poster-th-500x240.jpg"
+image: {{ site.baseurl }}
 ---
 
 <div class="container mb-4">
