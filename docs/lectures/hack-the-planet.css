@@ -348,3 +348,19 @@ border-bottom: none; }
     margin-left: 15%;
     margin-right: 15%;
 }
+
+/*
+.bullets ul li {
+    font-size: 0.5em;
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    line-height: 1.5;
+    color: #d8b365;
+} */
+
+
+/* set left whitespace to empty in code blocks*/
+/*pre, code {
+  white-space:normal;
+}*/
