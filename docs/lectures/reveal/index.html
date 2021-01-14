@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Slideshow Index
 excerpt: "Index of slideshows for teaching or presentations."
 search_omit: true
@@ -7,7 +7,7 @@ search_omit: true
 
 
 <ul class="post-list">
-{% for post in site.slides limit:10 %}
+{% for lecture in site.lectures limit:10 %}
   <li>
   	<article>
   		<a href="{{ site.url }}{{ post.url }}">{{ post.title }} 
