@@ -27,21 +27,19 @@ Introductions and explanation of the Syllabus. Describe the *ethos* and goals of
 + Date: 1/13/2021 (Wed.)  
 + Learning objectives: poll, filepaths, bash advanced, Github.
 + In class:
-	- [Lecture 2.0](https://eaton-lab.org/hack-the-planet/lectures/2.0): program design 
-	- [Lecture 2.1](https://eaton-lab.org/hack-the-planet/lectures/2.1): bash advanced, GitHub
+	- [Lecture 2.0:](https://eaton-lab.org/hack-the-planet/lectures/2.0) program design 
+	- [Lecture 2.1:](https://eaton-lab.org/hack-the-planet/lectures/2.1) bash advanced, GitHub
 
 + Assignment:
 	- [Tutorial 2.0:](https://eaton-lab.org/hack-the-planet/tutorials/2.0-github.html) GitHub init
 	- [Tutorial 2.1:](https://eaton-lab.org/hack-the-planet/tutorials/2.1-path.html) bash lession
 	- [Notebook 2.0:](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) bash assessment
 
-+ Before next Wednesday (Windows users only):
-	- https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10
-	- https://www.youtube.com/watch?v=_fntjriRe48
-	- You must update your windows to the latest version (see links below for more details)
-	- Tutorial (Windows users only) try to install Windows subsystem for Linux 2. 
-	- For those who run into problems, attend an extra zoom session on Friday 1/15 (and 1/19 if needed)
-	 <!-- (Notes: Only follow instructions up to 6:20. make sure when you create a username that it does not have any spaces in it. Only install WSL2 and Ubuntu 20.04, do not follow any of the instructions after 6:20 when he shows how to install other versions.) -->
++ Before next Wednesday (<b>Windows users only</b>):
+	- Try to install Windows Subsystem for Linux 2.
+	- [graphical tutorial](https://www.youtube.com/watch?v=_fntjriRe48) (Note: Only follow instructions up to 6:20. make sure when you create a username that does not have any spaces in it. Only install WSL2 and Ubuntu 20.04, do not follow instructions after 6:20 where he installs additional versions.)	
+	- [alternative command line tutorial](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10)
+	- If problems, please join office hours at the Canvas zoom link on Friday 1/15 at 3pm, or Tues 1/19 at 10am.
 
 <hr>
 
@@ -55,63 +53,74 @@ Introductions and explanation of the Syllabus. Describe the *ethos* and goals of
 + Date: 1/20/2021 (Wed.)
 + Learning objectives: sublimetext/vscode, git.
 + In class:
-	- Lecture 4: writing scripts, text-editors, git and GitHub.
+	- Lecture 4: writing scripts, text-editors, git basics
 	- Activity: install SublimeText
 
 + Assignment:
 	<!-- - [Tutorial 2.2:](https://eaton-lab.org/hack-the-planet/tutorials/2.2-markdown.html) PATH and variables. -->
-	- Tutorial: Install SublimeText3.
-	- Tutorial: Basic GitHub/Jekyll tutorial. 
-	- Watch GH/Jekyll tutorial video.
-	- Assignment: edit your Github/jekyll website and push to GitHub.
+	- [Tutorial 4.1:] Setup coding text editor
+	- [Tutorial 4.2:] First git repo
+	- [Tutorial 4.3:] Basic GitHub/Jekyll tutorial (markdown/up advanced) [2.2]
+	- [Tutorial 4.4:] Using git to sync repos
+	- [Watch:] GH/Jekyll tutorial video.
+	- [Watch:] VScode tutorial video.
+	<!-- - [Assignment:] edit your Github/jekyll website and push to GitHub. -->
 
-<!-- Chellenges, follwing these instructions will require entering correct file paths, knowing hwere your files are located, calling command line programs like git correctly (again, file paths!) -->
 <hr>
+
 
 #### Session 5
 + Date: 1/25/2021 (Mon.)
-+ Learning objectives: Python, conda, filepaths again.
++ Learning objectives: conda, Python basics, types/objects
 + In class:
-	- Lecture 5: Why Python? Why conda? Where are programs located?
-	- Activity: install conda.
+	- Lecture 5: Why Python? Why conda? Dev setup.
+	- Activity: Website presentations.
+	- Activity: install conda, install jupyter
 
 + Assignment:
-	- Tutorial: [git](https://lab.github.com/), [gitagain](http://rogerdudler.github.io/git-guide/)
-	- Tutorial: Basic GitHub/Jekyll tutorial. 
-	- Watch GH/Jekyll tutorial video.
-	- Assignment: edit your Github/jekyll website and push to GitHub.
-
+	- [Tutorial:] conda installation.
+	- [Tutorial:] conda environments, PATH advanced.
+	- [Tutorial:] on local jupyter, and servers.
+	- [Tutorial:] Python basics.
+	- [Read:] Python tutorial x-y.
+	- [Notebook:] Python basics assessments.
 <hr>
 
-<!-- Chellenges, follwing these instructions will require entering correct file paths, knowing hwere your files are located, calling command line programs like git correctly (again, file paths!) -->
 
 #### Session 6
 + Date: 1/27/2021 (Wed.)
-+ Learning objectives: Python basics
++ Learning objectives: Python flow control, functions, file i/o
 + In class:
-	- Website presentations.
-	- Lecture 6: Why types, which types, stdlib.
+	- Lecture 6: Python basics, flow control, and stdlib.
 
 + Assignment:
-	- Watch: Python types
-	- Read: Python basics tutorial chapters 1-8.
-	- Notebook Tutorial: Python types.
-	- Video tutorial: Python scripting demo.
-	- Assignment: test and push new pyscript repo.
-
+	- [Tutorial:] Python strings
+	- [Tutorial:] Python lists
+	- [Tutorial:] Python tuples
+	- [Tutorial:] Python dicts
+	- [Tutorial:] Python arithmetic
+	- [Tutorial:] Python conditionals
+	- [Tutorial:] Python flow-control
+	- [Tutorial:] Python functions	
+	- [Tutorial:] Python file i/o
 <hr>
+
 
 #### Session 7
 + Date: 2/1/2021 (Mon.)
-+ Learning objectives: Python flow control, functions, file i/o
++ Learning objectives: Python scripting and style
 + In class:
-	- Lecture 7: review, functions, style.
-	- Activity: Linting.
+	- Lecture 7: Why types, which types, style
+	- Activity: first Python script
+	- Activity: linting, building.
 
 + Assignment:
-	- Tutorial: setting up linting in sublimetext3.
-	- Assignment: 
-
+	- Watch: Python tutorial x-y
+	- [Tutorial:] Zen of Python.
+	- [Tutorial:] black style.
+	- [Tutorial:] linting in a code editor.
+	- [Read:] git cheat sheet.
+	- [Tutorial:] git zen test
 <hr>
 
 
