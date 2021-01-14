@@ -22,14 +22,12 @@ image: /assets/images/hackers-5.jpg
 
 **Equipment:** All software and materials for the course are open access (available online for free) including assigned readings and videos. Students will learn to code on their own computers, no matter if they are running Linux, Mac, Windows, or Chrome OS. This will require student to install free software on their computers.
 
-**Assessment/Grades:** Grades will not be curved. However, your grade will be assigned relative to the performance of your peers. The maximum grade will earn an A, and grades that are less than one-half of that maximum grade will be assigned an F. Between these values (max and ½ max) intervals equating to letter grades are divided equally. 
-
-Grades are based on participation (attendance and discussions), assignments, projects proposals, and project presentations, and the final project.  
-25% Participation  
-35% Assignments  
-10% Project proposal  
-10% Project presentation  
-20% Project final  
+**Assessment/Grades:** Grades will not be curved. However, your grade will be assigned relative to the performance of your peers. The maximum grade will earn an A, and grades that are less than one-half of that maximum grade will be assigned an F. Between these values (max and ½ max) intervals equating to letter grades are divided equally. Grades are based on participation (attendance and discussions), assignments, projects proposals, and project presentations, and the final project.  
+- 25% Participation  
+- 35% Assignments  
+- 10% Project proposal  
+- 10% Project presentation  
+- 20% Project final  
 
 **Participation:** In addition to attendance you are expected to contribute to discussions in class by asking questions, and to interact with your peers through breakout session code reviews.
 
