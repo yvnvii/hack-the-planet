@@ -6,9 +6,12 @@ image: /assets/images/hackers-4a.jpg
 
 
 ## Programming and Data Science for Biologists
+Welcome to the landing page for EEEB G4050, Programming and Data 
+Science for Biologists. This site will serve as a resource for the class, 
+with links to the syllabus, tutorials, videos, readings, and assignments. 
+You can access most of these categories from the navbar at the top, 
+including a link to Canvas, which we will use only for grades and zoom links.
 
-Welcome to the landing page for EEEB G4050, Programming and Data Science for 
-Biologists. This site will serve as a resource for the class, with links to the syllabus, tutorials, videos, readings, and assignments. You can access most of these categories from the navbar at the top, including a link to Canvas, which we will use for grades and for its Discussion feature.
 
 #### Course design
 As the name suggests, this class is designed to focus on 
@@ -29,22 +32,27 @@ community of biologists by developing simple and efficient software tools.
 
 
 #### Inspiration
-The name and design of this site is inspired by the 
-[hit 1995 movie *Hackers*](https://en.wikipedia.org/wiki/Hackers_(film)). 
-If you have not seen it, I highly recommended it (I think you can find it streaming). 
+The name and design of this site (hack-the-planet) is inspired by the 
+[1995 movie *Hackers*](https://en.wikipedia.org/wiki/Hackers_(film)) 
+(I think you can currently find it streaming). 
 Although you will not learn to "hack" in the strict sense
-in this class, I do strongly promote the ethos of hacking in the sense
-of sitting down and hacking away at a problem until you learn to
-solve it, and in the sense of a community of hackers working together. 
+in this class, we will follow a general ethos of the film in the
+sense of <i>hacking</i> to solve a complex problem by coming up with 
+creative solutions, and also in the sense of a <i>community of 
+hackers</i> working together to solve problems. 
 
-Although you can learn a lot through tutorials, much of programming comes 
-down to learning routines and muscle memory by practice. When you get stuck, 
-try, try, and try again until you can find a solution that works. And seek
-help. Use google. And treat this course like a hackathon, 
-chat with your colleagues to discuss and work on assignments 
-together, to brainstorm project ideas, and to solve hard problems. 
-It should be fun. Drop in and say 'hello world' to the course 
-[chatroom](https://gitter.im/hack-the-planet-course/community).
+Although you can learn a lot of coding skills through tutorials, 
+much of programming comes from learning efficient routines, practices, 
+and even muscle memory, all of which comes through practice. 
+When you get stuck, try, try, and try again to come up with solutions.
+This mental work of thinking about alternative ways to achieve a goal
+requires practice. In addition, you can by example. Use google. See
+how others have solved this type of problem. 
+Treat this course like a hackathon, chat with your colleagues,
+discuss and work on assignments together, and brainstorm project 
+ideas. It should be fun. Drop in and say 'hello world' to the course 
+[chatroom](https://gitter.im/hack-the-planet-course/community), 
+and ask any coding questions you might have.
 
 Finally, our theme of "hack the planet", borrowed from Hackers, 
 relates well to a focus of many students in this class, which is 
