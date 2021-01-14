@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hack the planet!"
-image: /assets/images/hackers-4.jpg
+image: /assets/images/hackers-4a.jpg
 ---
 
 
@@ -43,15 +43,18 @@ try, try, and try again until you can find a solution that works. And seek
 help. Use google. And treat this course like a hackathon, 
 chat with your colleagues to discuss and work on assignments 
 together, to brainstorm project ideas, and to solve hard problems. 
-It should be fun.
+It should be fun. Drop in and say 'hello world' to the course 
+[chatroom](https://gitter.im/hack-the-planet-course/community).
 
 Finally, our theme of "hack the planet", borrowed from Hackers, 
 relates well to a focus of many students in this class, which is 
-to study biology and the environment. 
-We will learn about finding, parsing, and analyzing large data sets, 
-such as those used in genomics or biodiversity research. 
+an interest in biology and the environment. 
+We will learn about finding, parsing, and analyzing large biological 
+data sets, such as those used in genomics or biodiversity research.
+And we will learn best practices for working with such data. 
 Keep this theme in mind as you work through the course, thinking 
-of the type of data you want to analyze.
+of the type of data you want to analyze, and how you could develop
+a useful new tool around this type of data.
 
 <div class="mt-4 mb-4 text-center">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hack-the-planet.gif">

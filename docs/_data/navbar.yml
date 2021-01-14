@@ -6,14 +6,15 @@
 - name: Syllabus
   link: /pages/syllabus.html
 
-# - name: Schedule
-  # link: /pages/schedule.html
-
 - name: Assignments
   link: /pages/assignments.html
 
 - name: Canvas
   link: https://courseworks2.columbia.edu/courses/119078
+  external: true
+
+- name: Chatroom
+  link: https://gitter.im/hack-the-planet-course/community
   external: true
 
 
