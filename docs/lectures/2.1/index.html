@@ -99,18 +99,21 @@ data/    docs/    file.txt
                     program -options target</h3>
 
                 <pre style="width:60%"><code class="bash" style="max-height: 650px; font-size: 18px; line-height:1.35;"> 
+# program target
 echo "hello world"
 
-# show the files in my current location
-ls
+# program -option target
+ls -l /home/deren/work
                 </code></pre>                
 
                 <pre style="width:60%"><code class="bash" style="max-height: 650px; font-size: 18px; line-height:1.35;"> 
-# pwd 'prints the working directory' (your location)
+# echo prints the target string to the terminal output (stdout)
 /home/deren/
 
-# ls 'lists' the contents in the specifed directory
-data/    docs/    file.txt
+# ls -l 'lists' contents in the specifed directory
+drwxr-xr-x  7 deren deren  4096 Dec 28 03:37 data/    
+drwxr-xr-x  7 deren deren  4096 Dec 28 03:37 docs/    
+drwxr-xr-x  7 deren deren  4096 Dec 28 03:37 file.txt
                 </code></pre>                
 
                 </div>
