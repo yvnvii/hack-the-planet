@@ -13,7 +13,7 @@ Introductions and explanation of the Syllabus. Describe the *ethos* and goals of
 	- [Lecture 1](https://eaton-lab.org/hack-the-planet/lectures/1.0): programming ethos.  
 	- [Connect to binder notebook server](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (1.1. introduction to jupyter notebook.)
 
-+ Assignment:
++ Assignment
 	- [Poll:](https://forms.gle/hJs3v5v6a5h7K76j6) on your experience with programming.
 	- [Watch:](https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s) Unix history video (Only watch up to 21:30).
 	- [Read linux tutorial](https://ryanstutorials.net/linuxtutorial/navigation.php) sections 1-5.
@@ -51,27 +51,26 @@ Introductions and explanation of the Syllabus. Describe the *ethos* and goals of
 
 #### Session 4
 + Date: 1/20/2021 (Wed.)
-+ Learning objectives: sublimetext/vscode, git.
++ Learning objectives: shell review, code editors, git
 + In class:
-	- Lecture 4: writing scripts, text-editors, git basics
-	- Activity: install SublimeText
+	- Interactive review and introduction to git. (See zoom video).
 
 + Assignment:
-	<!-- - [Tutorial 2.2:](https://eaton-lab.org/hack-the-planet/tutorials/2.2-markdown.html) PATH and variables. -->
-	- [Tutorial 4.1:] Setup coding text editor
-	- [Tutorial 4.2:] First git repo
-	- [Tutorial 4.3:] Basic GitHub/Jekyll tutorial (markdown/up advanced) [2.2]
-	- [Tutorial 4.4:] Using git to sync repos
-	- [Watch:] GH/Jekyll tutorial video.
-	- [Watch:] VScode tutorial video.
-	<!-- - [Assignment:] edit your Github/jekyll website and push to GitHub. -->
-
+	- [Tutorial 4.0:](../tutorials/4.0-markdown.html) Markdown revisited.
+	- [Tutorial 4.1:](../tutorials/4.1-learning-git.html) Learning git.
+	- [Tutorial 4.2:](../tutorials/4.2-github-pages.html) Create a GitHub pages website.
+	- [Tutorial 4.3:] Not due Monday, coming soon. SublimeText3 tutorial.
+	- [Tutorial 4.4:] Not due Monday, coming soon. VSCode tutorial.	
+	<!-- - [Tutorial 4.3:](...) Create a personal GitHub pages website. -->
+	<!-- - [Watch:] GH/Jekyll tutorial video. -->
+	<!-- - [Watch:] VScode tutorial video. -->
+	<!-- - [Watch: Jekyll server in vscode]() -->
 <hr>
 
 
 #### Session 5
 + Date: 1/25/2021 (Mon.)
-+ Learning objectives: conda, Python basics, types/objects
++ Learning objectives: coding editors, conda, Python basics
 + In class:
 	- Lecture 5: Why Python? Why conda? Dev setup.
 	- Activity: Website presentations.
