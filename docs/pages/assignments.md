@@ -3,160 +3,256 @@ layout: default
 image: /assets/images/hackers-1.jpg
 ---
 
-<hr>
 
-#### Session 1
-+ Date: 1/11/2021 (Mon.)  
-+ Learning objectives: 
-Introductions and explanation of the Syllabus. Describe the *ethos* and goals of this class. Why learn to program? What is programming? 
-+ In class:
-	- [Lecture 1](https://eaton-lab.org/hack-the-planet/lectures/1.0): programming ethos.  
-	- [Connect to binder notebook server](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) (1.1. introduction to jupyter notebook.)
-
-+ Assignment
-	- [Poll:](https://forms.gle/hJs3v5v6a5h7K76j6) on your experience with programming.
-	- [Watch:](https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s) Unix history video (Only watch up to 21:30).
-	- [Read linux tutorial](https://ryanstutorials.net/linuxtutorial/navigation.php) sections 1-5.
-	If you are on Windows and do not have WSL2 installed, then wait until next class before 
-	installing. For now, [use these instructions](https://eaton-lab.org/hack-the-planet/assets/images/peek-connect-to-binder.gif)
-	to connect to a Linux terminal in the cloud to practice exercises in these readings.
-<hr>
+{% comment %}
+{% for session in site.data.assignments %}
+<div class="card mb-3">
+	{% assign row = site.data.assignments[0] %}
+	{{ row | inspect }}
+	<div class="card-header">
+		<h5 class="mb-0"> {{ session[1] }} </h5>
+	</div>
+	<div class="card-body">
+		...
+	</div>
+</div>
+{% endfor %}
+{% endcomment %}
 
 
-#### Session 2
-+ Date: 1/13/2021 (Wed.)  
-+ Learning objectives: poll, filepaths, bash advanced, Github.
-+ In class:
-	- [Lecture 2.0:](https://eaton-lab.org/hack-the-planet/lectures/2.0) program design 
-	- [Lecture 2.1:](https://eaton-lab.org/hack-the-planet/lectures/2.1) bash advanced, GitHub
-
-+ Assignment:
-	- [Tutorial 2.0:](https://eaton-lab.org/hack-the-planet/tutorials/2.0-github.html) GitHub init
-	- [Tutorial 2.1:](https://eaton-lab.org/hack-the-planet/tutorials/2.1-path.html) bash lession
-	- [Notebook 2.0:](https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks) bash assessment
-
-+ Before next Wednesday (<b>Windows users only</b>):
-	- Try to install Windows Subsystem for Linux 2.
-	- [graphical tutorial](https://www.youtube.com/watch?v=_fntjriRe48) (Note: Only follow instructions up to 6:20. make sure when you create a username that does not have any spaces in it. Only install WSL2 and Ubuntu 20.04, do not follow instructions after 6:20 where he installs additional versions.)	
-	- [alternative command line tutorial](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10)
-	- If problems, please join office hours at the Canvas zoom link on Friday 1/15 at 3pm, or Tues 1/19 at 10am.
-
-<hr>
-
-
-#### Session 3
-**No class**
-<hr>
-
-
-#### Session 4
-+ Date: 1/20/2021 (Wed.)
-+ Learning objectives: shell review, code editors, git
-+ In class:
-	- Interactive review and introduction to git. (See zoom video).
-
-+ Assignment:
-	- [Tutorial 4.0:](../tutorials/4.0-markdown.html) Markdown revisited.
-	- [Tutorial 4.1:](../tutorials/4.1-learning-git.html) Learning git.
-	- [Tutorial 4.2:](../tutorials/4.2-github-pages.html) Create a GitHub pages website.
-	- [Tutorial 4.3:] Not due Monday, coming soon. SublimeText3 tutorial.
-	- [Tutorial 4.4:] Not due Monday, coming soon. VSCode tutorial.	
-	<!-- - [Tutorial 4.3:](...) Create a personal GitHub pages website. -->
-	<!-- - [Watch:] GH/Jekyll tutorial video. -->
-	<!-- - [Watch:] VScode tutorial video. -->
-	<!-- - [Watch: Jekyll server in vscode]() -->
-<hr>
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 1 <small class="float-right mt-1">1/11/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Introductions and explanation of the Syllabus. Describe the <i>ethos</i> and goals of this class. Why learn to program? What is programming?</li>
+			<li>In class:
+				<ul>
+					<li><a href="../lectures/1.0">Lecture 1</a>: programming ethos.</li>
+					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Connect to binder notebook server</a>: (1.1. introduction to jupyter notebook.)</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://forms.gle/hJs3v5v6a5h7K76j6">Poll: on your experience with programming.</a></li>
+					<li><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s">Watch: Unix history video (Only watch up to 21:30).</a></li>
+					<li><a href="https://ryanstutorials.net/linuxtutorial/navigation.php">Read linux tutorial sections 1-5.</a> If you are on Windows and do not have WSL2 installed, then wait until next class before installing. For now, use these instructions to connect to a Linux terminal in the cloud to practice exercises in these readings.</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
 
 
-#### Session 5
-+ Date: 1/25/2021 (Mon.)
-+ Learning objectives: coding editors, conda, Python basics
-+ In class:
-	- Lecture 5: Why Python? Why conda? Dev setup.
-	- Activity: Website presentations.
-	- Activity: install conda, install jupyter
-
-+ Assignment:
-	- [Tutorial:] conda installation.
-	- [Tutorial:] conda environments, PATH advanced.
-	- [Tutorial:] on local jupyter, and servers.
-	- [Tutorial:] Python basics.
-	- [Read:] Python tutorial x-y.
-	- [Notebook:] Python basics assessments.
-<hr>
-
-
-#### Session 6
-+ Date: 1/27/2021 (Wed.)
-+ Learning objectives: Python flow control, functions, file i/o
-+ In class:
-	- Lecture 6: Python basics, flow control, and stdlib.
-
-+ Assignment:
-	- [Tutorial:] Python strings
-	- [Tutorial:] Python lists
-	- [Tutorial:] Python tuples
-	- [Tutorial:] Python dicts
-	- [Tutorial:] Python arithmetic
-	- [Tutorial:] Python conditionals
-	- [Tutorial:] Python flow-control
-	- [Tutorial:] Python functions	
-	- [Tutorial:] Python file i/o
-<hr>
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 2 <small class="float-right mt-1">1/13/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objectives: poll, filepaths, bash advanced, PATH</li>
+			<li>In class:
+				<ul>
+					<li><a href="../lectures/2.0">Lecture 2.0</a>: program design.</li>
+					<li><a href="../lectures/2.1">Lecture 2.1</a>: bash advanced, GitHub.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://eaton-lab.org/hack-the-planet/tutorials/2.0-github.html">Tutorial 2.0</a>: GitHub init</li>
+					<li><a href="https://eaton-lab.org/hack-the-planet/tutorials/2.1-path.html">Tutorial 2.1</a>: bash lession</li>
+					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Notebook 2.0</a>: bash assessment</li>
+				</ul>
+			</li>
+			<li>Before Wednesday (<b>Windows users only</b>):
+				<ul>
+					<li>Try to install Windows Subsystem for Linux 2.</li>
+					<li><a href="https://www.youtube.com/watch?v=_fntjriRe48">graphical tutorial</a> (Note: Only follow instructions up to 6:20. make sure when you create a username that does not have any spaces in it. Only install WSL2 and Ubuntu 20.04, do not follow instructions after 6:20 where he installs additional versions.)</li>
+					<li><a href="https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10">alternative command line tutorial</a></li>
+					<li>If problems, please join office hours at the Canvas zoom link on Friday 1/15 at 3pm, or Tues 1/19 at 10am.</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
 
 
-#### Session 7
-+ Date: 2/1/2021 (Mon.)
-+ Learning objectives: Python scripting and style
-+ In class:
-	- Lecture 7: Why types, which types, style
-	- Activity: first Python script
-	- Activity: linting, building.
-
-+ Assignment:
-	- Watch: Python tutorial x-y
-	- [Tutorial:] Zen of Python.
-	- [Tutorial:] black style.
-	- [Tutorial:] linting in a code editor.
-	- [Read:] git cheat sheet.
-	- [Tutorial:] git zen test
-<hr>
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 3 <small class="float-right mt-1">1/18/2021</small></h5>		
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>No Class; University holiday</li>
+		</ul>
+	</div>
+</div>		
 
 
-#### Session 8
-+ Date: 2/3/2021 (Wed.)
-+ Learning objectives: Hack the Planet I (parsing data)
-+ In class:
-	- Lecture 7: data formatting do's and dont's.
-	- Activity: 
 
-+ Assignment:
-	- ...
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 4 <small class="float-right mt-1">1/20/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: git, GitHub, WSL2, coding editors</li>
+			<li>In class:
+				<ul>
+					<li>Interactive review and introduction to git. (See zoom recording).</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="../tutorials/4.0-markdown.html">Tutorial 4.0</a>: Markdown revisited.</li>
+					<li><a href="../tutorials/4.1-learning-git.html">Tutorial 4.1</a>: Learning git.</li>
+					<li><a href="../tutorials/4.2-github-pages.html">Tutorial 4.2</a>: Create a GitHub pages website.</li>
+					{% comment %}- [Tutorial 4.3:] Not due Monday, coming soon. SublimeText3 tutorial.{% endcomment %}
+					{% comment %}- [Tutorial 4.4:] Not due Monday, coming soon. VSCode tutorial.	{% endcomment %}
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
 
-<hr>
+
+{% comment %}
+
+TODO:
+	1. Prepare lecture (see old lectures 1-3 for WHY)
+	2. finish conda (test on WSL2)
+	3. finish jupyter (test)
+	4. update new notebooks and group into repo.
+
+Class:
+	- websites
+	- conda demo
+	- jupyter demo (server explain)
+	- fork demo 
+	- Python why...
+
+{% endcomment %}
 
 
-#### Session 9
-+ Date: 2/8/2021 (Mon.)
-+ Learning objectives: Hack the Planet I (parsing data)
-+ In class:
-	- Lecture 7: data formatting do's and dont's.
-	- Activity: 
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 5 <small class="float-right mt-1">1/25/2021</small></h5>		
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Installing Python and other packages with conda; using jupyter; 
+			and intro to Python</li>
+			<li>In class:
+				<ul>
+					<li>GitHub pages breakout sessions</li>
+					<li><a href="../lectures/5.0/">Lecture 5.0</a>: Python intro.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="../tutorials/5.0-conda.html">Tutorial 5.0</a>: conda.</li>
+					<li><a href="../tutorials/5.1-jupyter.html">Tutorial 5.1</a>: jupyter</li>
+					<li><a href="https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 1 and 3</li>
+					<li><a href="../tutorials/5.2-forking.html">Tutorial 5.2</a>: GitHub forking</li>
+					<li><a href="../tutorials/5.3-python.html">Tutorial 5.3</a>: Python assessment</li>					
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
 
-+ Assignment:
-	- ...
-
-<hr>
 
 
-#### Session 10
-+ Date: 2/10/2021 (Wed.)
-+ Learning objectives: Hack the Planet I (parsing data)
-+ In class:
-	- Lecture 7: data formatting do's and dont's.
-	- Activity: 
 
-+ Assignment:
-	- ...
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 6 <small class="float-right mt-1">1/27/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: When to use different Python types, how to understand 
+			exceptions and how to control flow with loops and conditionals.</li>
+			<li>In class:
+				<ul>
+					<li><a href="../lectures/6.0/">Lecture 6.0</a>: Python types, exceptions and flow.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 4-5</li>
+					<li><a href="#">Tutorial 6.0</a>: conditionals</li>
+					<li><a href="#">Tutorial 6.1</a>: loops</li>
+					<li><a href="#">Tutorial 6.2</a>: itertools</li>
+					<li><a href="#">Tutorial 6.3</a>: assessment challenge 1</li>
+					<li><a href="#">Tutorial 6.4</a>: assessment challenge 2</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
 
-<hr>
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 7 <small class="float-right mt-1">2/1/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			{% comment %}<li>Date: 2/1/2021 (Mon.)</li>{% endcomment %}
+			<li>Learning objective: Introduction to the Python stdlib, functions, subprocess, 
+			and file IO.</li>
+			<li>In class:
+				<ul>
+					<li><a href="#">Lecture 7.0</a>: Python stdlib and basics.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 4-5</li>
+					<li><a href="#">Read</a>: Python stdlib of the week tutorial 1-3</li>
+					<li><a href="#">Tutorial 7.0</a>: stdlib file io</li>
+					<li><a href="#">Tutorial 7.1</a>: stdlib sys and os</li>
+					<li><a href="#">Tutorial 7.2</a>: stdlib subprocess</li>
+					<li><a href="#">Tutorial 7.3</a>: functions</li>
+					<li><a href="#">Tutorial 7.4</a>: Assessment</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
+
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 8 <small class="float-right mt-1">2/3/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Write Python code following standardized style guides, 
+			and learn to use tools for checking styles.</li>
+			<li>In class:
+				<ul>
+					<li><a href="#">Lecture 8.0</a>: Scripting, style, and Zen of Python.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://www.python.org/dev/peps/pep-0008/">Read</a>: PEP 8</li>
+					<li><a href="#">Read</a>: Zen of Python</li>
+					<li><a href="#">Read</a>: Pythonista</li>					
+					<li><a href="#">Tutorial 8.0</a>: black style</li>					
+					<li><a href="#">Tutorial 8.1</a>: pylint and linting</li>
+					<li><a href="#">Tutorial 8.2</a>: assessment</li>					
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
+... More coming soon.
