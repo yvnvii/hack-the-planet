@@ -154,8 +154,7 @@ Class:
 					<li><a href="../tutorials/5.0-conda.html">Tutorial 5.0</a>: conda.</li>
 					<li><a href="../tutorials/5.1-jupyter.html">Tutorial 5.1</a>: jupyter</li>
 					<li><a href="https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 1 and 3</li>
-					<li><a href="../tutorials/5.2-forking.html">Tutorial 5.2</a>: GitHub forking</li>
-					<li><a href="../tutorials/5.3-python.html">Tutorial 5.3</a>: Python assessment</li>					
+					<li><a href="../tutorials/5.2-forking.html">Tutorial 5.2</a>: GitHub forking and Python assessment</li>
 				</ul>
 			</li>
 		</ul>
