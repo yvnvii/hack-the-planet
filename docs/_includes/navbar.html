@@ -27,7 +27,7 @@
                         <div class="dropdown-menu">
                         {% for sub in item.dropdown %}
                             {% if sub.external %}
-                                <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl}}{{ sub.link }}" target="_blank">{{ sub.name }}</a>
+                                <a class="dropdown-item" href="{{ sub.link }}" target="_blank">{{ sub.name }}</a>
                             {% else %}
                                 <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl}}{{ sub.link }}">{{ sub.name }}</a>
                             {% endif %}
