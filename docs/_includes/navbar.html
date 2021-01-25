@@ -24,11 +24,15 @@
 
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
                         
+                        <div class="dropdown-menu">
                         {% for sub in item.dropdown %}
-                            <div class="dropdown-menu">                        
+                            {% if sub.external %}
+                                <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl}}{{ sub.link }}" target="_blank">{{ sub.name }}</a>
+                            {% else %}
                                 <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl}}{{ sub.link }}">{{ sub.name }}</a>
-                            </div>
-                        {% endfor %}               
+                            {% endif %}
+                        {% endfor %}
+                        </div>
 
                     <!-- open link in new window -->
                     {% elsif item.external %}
