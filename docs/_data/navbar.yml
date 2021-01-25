@@ -9,19 +9,16 @@
 - name: Assignments
   link: /pages/assignments.html
 
-- name: Canvas
-  link: https://courseworks2.columbia.edu/courses/119078
-  external: true
+- name: Resources
+  dropdown:
+    - name: Schedule
+      link: /pages/schedule.html
 
-- name: Chatroom
-  link: https://gitter.im/hack-the-planet-course/community
-  external: true
-
-
-# - name: Resources
-#   dropdown:
-#     - name: Git Cheat Sheet
-#       link: /pages/cheat-git.html
-#     - name: GitHub Cheat Sheet
-#       link: /pages/cheat-github.html
-
+- name: External
+  dropdown:
+    - name: Canvas
+      link: https://courseworks2.columbia.edu/courses/119078
+      external: true      
+    - name: Gitter Chartoom
+      link: https://gitter.im/hack-the-planet-course/community    
+      external: true
