@@ -3,7 +3,29 @@ layout: default
 image: /assets/images/hackers-2.jpg
 ---
 
-<div class="container mb-4">
-	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRu-MmQ5cg7UW6YCOdPQ8aZuAdNYqFug5O4yr_cp8j8pFOka5dQLs5Y6V5NaLZNA_79dOzPdsuuY43O/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
-	style="width:500px; height:800px"></iframe>
-</div>
+<!-- https://docs.google.com/spreadsheets/d/1SWVcahRbQ5pgE-LNVO61xZyoHdELlyfJs5iTqp34_6Y/edit#gid=0 -->
+
+<!-- mv ~/Downloads/PDSB-syllabus-schedule\ -\ Sheet1.csv ~/Documents/hack-the-planet/docs/_data/schedule.csv -->
+
+
+<table class="table table-sm table-striped table-hover table-bordered" style="font-size: 14px">
+  <caption>Schedule of class sessions</caption>
+  <thead class="thead-dark">
+    <tr>   
+	  {% for keyval in site.data.schedule[0] %}
+	  <th scope="col">{{ keyval[0] }}</th>
+	  {% endfor %}
+	</tr>
+  </thead>
+  <tbody>
+  	{% for row in site.data.schedule %}
+  	<tr>
+  	  <th scope="col">{{ row["#"] }}</th>
+  	  <th scope="col">{{ row["Date"] }}</th>
+  	  <th scope="col">{{ row["Weekday"] }}</th>  	  
+  	  <th scope="col">{{ row["Topic"] }}</th>
+  	  <th scope="col">{{ row["Event"] }}</th>
+  	</tr>
+  	{% endfor %}
+  </tbody>
+</table>

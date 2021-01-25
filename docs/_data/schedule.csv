@@ -1,0 +1,31 @@
+#,Date,Weekday,Topic,Event
+1,1/11/2022,M,Introductions; ethos; unix,
+2,1/13/2022,W,programs; unix; PATH ,
+3,1/18/2022,M,No Class; MLK day,
+4,1/20/2022,W,"git, GitHub, WSL2; coding editors",
+5,1/25/2022,M,"conda, jupyter, Python introduction",
+6,1/27/2022,W,"Python types, exceptions, and flow",
+7,2/1/2022,M,"Python stdlib, functions, subprocess, IO",
+8,2/3/2022,W,"Python scripting and style, pylint, black",
+9,2/8/2022,M,Python numpy and pandas I,
+10,2/10/2022,W,Python object-oriented,
+11,2/15/2022,M,"Python scripting, building, logging, testing",
+12,2/17/2022,W,Project design examples,
+13,2/22/2022,M,Python packaging and development,Project proposal assigned
+14,2/24/2022,W,Project design discussion and hackathon,
+15,3/1/2022,M,No Class; Spring break,
+16,3/3/2022,W,No Class; Spring break,
+17,3/8/2022,M,"Python plotting, libraries and formats",Project Proposal due
+18,3/10/2022,W,Python numpy and pandas II,
+19,3/15/2022,M,git collaboration,
+20,3/17/2022,W,Hackathon 1,
+21,3/22/2022,M,"Python for speed, numpy, numba",
+22,3/24/2022,W,Hackathon 2,
+23,3/29/2022,M,"Documentation, testing, and distribution",
+24,3/31/2022,W,Hackathon 3,Presentations assigned
+25,4/5/2022,M,"Pandas revisited, and data handling hacks",
+26,4/7/2022,W,Hackathon 4,
+27,4/12/2022,M,Project presentations,Presentations
+28,4/14/2022,W,Project presentations,Presentations
+29,4/19/2022,M,No class; reading week,
+30,4/21/2022,W,No class,Final project due
