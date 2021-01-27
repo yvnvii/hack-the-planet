@@ -180,11 +180,7 @@ Class:
 			<li>Assignment:
 				<ul>
 					<li><a href="https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 4-5</li>
-					<li><a href="#">Tutorial 6.0</a>: conditionals</li>
-					<li><a href="#">Tutorial 6.1</a>: loops</li>
-					<li><a href="#">Tutorial 6.2</a>: itertools</li>
-					<li><a href="#">Tutorial 6.3</a>: assessment challenge 1</li>
-					<li><a href="#">Tutorial 6.4</a>: assessment challenge 2</li>
+					<li><a href="../tutorials/6.0-python-advanced.html">Tutorial 6.0</a>: Python advanced</li>
 				</ul>
 			</li>
 		</ul>
