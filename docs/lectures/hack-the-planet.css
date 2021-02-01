@@ -49,7 +49,8 @@ body {
 
 .reveal code {
   font-family: monospace;
-  text-transform: none; }
+  text-transform: none; 
+}
 
 .reveal pre code {
   display: block;
@@ -110,7 +111,8 @@ body {
 
 .reveal p {
   margin: 20px 0;
-  line-height: 1.6em; }
+  line-height: 1.6em; 
+}
 
 .citation {
   position: fixed;

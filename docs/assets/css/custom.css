@@ -1,5 +1,46 @@
 
 
+/* animation of flower 
+- pollen arrives on stigma and dissolves
+- pollen tube begins to grow from pollen color
+- pollen tube reaches towards ovules changing color
+*/
+@keyframes pollentube_offset {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+#style {
+  stroke-dasharray: 200;
+  stroke-dashoffset: 200;
+  animation-name: pollentube_offset;
+  animation-delay: 1s;
+  animation-duration: 3s;
+  animation-direction: alternate;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes pollenfill {
+  to {
+    opacity: 0%;
+  }
+}
+
+#pollen {
+  opacity: 100%;
+  animation-name: pollenfill;
+  animation-delay: 1s;
+  animation-duration: 3s; 
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+}
+
+
 
 /*h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
