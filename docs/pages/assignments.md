@@ -117,24 +117,6 @@ image: /assets/images/hackers-1.jpg
 </div>		
 
 
-{% comment %}
-
-TODO:
-	1. Prepare lecture (see old lectures 1-3 for WHY)
-	2. finish conda (test on WSL2)
-	3. finish jupyter (test)
-	4. update new notebooks and group into repo.
-
-Class:
-	- websites
-	- conda demo
-	- jupyter demo (server explain)
-	- fork demo 
-	- Python why...
-
-{% endcomment %}
-
-
 <div class="card mb-4">
 	<div class="card-header">
 		<h5 class="mb-0">Session 5 <small class="float-right mt-1">1/25/2021</small></h5>		
@@ -188,8 +170,6 @@ Class:
 </div>		
 
 
-
-
 <div class="card mb-4">
 	<div class="card-header">
 		<h5 class="mb-0">Session 7 <small class="float-right mt-1">2/1/2021</small></h5>
@@ -197,28 +177,52 @@ Class:
 	<div class="card-body">
 		<ul class="mb-0">
 			{% comment %}<li>Date: 2/1/2021 (Mon.)</li>{% endcomment %}
-			<li>Learning objective: Introduction to the Python stdlib, functions, subprocess, 
-			and file IO.</li>
+			<li>Learning objective: Learning to solve problems.</li>
 			<li>In class:
 				<ul>
-					<li><a href="#">Lecture 7.0</a>: Python stdlib and basics.</li>
+					<li><a href="#">Lecture 7.0</a>: Python stdlib and scripting.</li>
 				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href="https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 4-5</li>
-					<li><a href="#">Read</a>: Python stdlib of the week tutorial 1-3</li>
-					<li><a href="#">Tutorial 7.0</a>: stdlib file io</li>
-					<li><a href="#">Tutorial 7.1</a>: stdlib sys and os</li>
-					<li><a href="#">Tutorial 7.2</a>: stdlib subprocess</li>
-					<li><a href="#">Tutorial 7.3</a>: functions</li>
-					<li><a href="#">Tutorial 7.4</a>: Assessment</li>
+					<li><a href="../tutorials/7.0-subprocess.html">Tutorial 7.0</a>: subprocess notebook</li>
+					<li><a href="../tutorials/7.1-think.html">Tutorial 7.1</a>: thinking functionally</li>
+					<li><a href="../tutorials/7.2-scripting.html">Tutorial 7.2</a>: scripting and execution</li>
+					<li><a href="../tutorials/7.3-imports.html">Tutorial 7.3</a>: imports and modules</li>
+					<li><a href="../tutorials/7.4-classes.html">Tutorial 7.4</a>: intro to classes</li>
 				</ul>
 			</li>
 		</ul>
 	</div>
 </div>		
 
+
+{% comment %}
+
+Monday prep:
+	- lecture:
+		- dicts and sets.
+		- standard lib, os and subprocess
+	- notebooks:
+		- 7.0: subprocess and docstrings.
+		- 7.1: challenge functions.
+	- tuturials:
+		- 7.0: thinking functionally (links to notebooks)
+		- 7.1: scripting setup (paired with videos)
+		- 7.2: challenge: transfer and run script from editor.
+
+Wednesday prep:
+	- lecture:
+		- style and linting.
+		- game challenge demo.
+	- reading on style.
+	- notebooks:
+		- 8.0: auto-stying with black extension.
+	- tutorials:
+		- linting challenge
+		- game devel. challenge
+
+{% endcomment %}
 
 
 
@@ -229,8 +233,7 @@ Class:
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
-			<li>Learning objective: Write Python code following standardized style guides, 
-			and learn to use tools for checking styles.</li>
+			<li>Learning objective: Python classes and Python style guide.</li>
 			<li>In class:
 				<ul>
 					<li><a href="#">Lecture 8.0</a>: Scripting, style, and Zen of Python.</li>
@@ -243,7 +246,9 @@ Class:
 					<li><a href="#">Read</a>: Pythonista</li>					
 					<li><a href="#">Tutorial 8.0</a>: black style</li>					
 					<li><a href="#">Tutorial 8.1</a>: pylint and linting</li>
-					<li><a href="#">Tutorial 8.2</a>: assessment</li>					
+					<li><a href="#">Tutorial 8.2</a>: assessment</li>
+					<!-- <li><a href="../tutorials/7.3a-sublimetext.html">Tutorial 7.3a</a>: sublimetext setup</li> -->
+					<!-- <li><a href="../tutorials/7.3b-vscode.html">Tutorial 7.3b</a>: vscode setup</li>				 -->
 				</ul>
 			</li>
 		</ul>
