@@ -180,7 +180,8 @@ image: /assets/images/hackers-1.jpg
 			<li>Learning objective: Learning to solve problems.</li>
 			<li>In class:
 				<ul>
-					<li><a href="#">Lecture 7.0</a>: Python stdlib and scripting.</li>
+					<li>interactive discussion</li>
+					<!-- <li><a href="#">Lecture 7.0</a>: Python stdlib and scripting.</li> -->
 				</ul>
 			</li>
 			<li>Assignment:
