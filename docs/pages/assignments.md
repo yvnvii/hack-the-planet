@@ -244,13 +244,38 @@ Wednesday prep:
 				<ul>
 					<li><a href="https://www.python.org/dev/peps/pep-0008/">Read</a>: PEP 8</li>
 					<li><a href="https://www.python.org/dev/peps/pep-0020/">Read</a>: Zen of Python</li>
-					<li>You will receive an email when the tutorials are posted</li>
-					<li><a href=>Tutorial 8.0</a>: black style</li>					
-					<li><a href=>Tutorial 8.1</a>: pylint style</li>
-					<li><a href=>Tutorial 8.2</a>: assessment</li>
-					<li><a href=>Tutorial 8.3a</a>: sublimetext setup</li>
-					<li><a href=>Tutorial 8.3b</a>: vscode setup</li>
-					<li><a href=>Tutorial 8.4</a>: coding exercises I</li>					
+					<li>You will receive an email when the missing links to tutorials are updated</li>
+					<li><a href="../tutorials/8.0-style.html">Tutorial 8.0</a>: black style</li>					
+					<li><a href=>Tutorial 8.1a</a>: sublimetext setup</li>
+					<li><a href=>Tutorial 8.1b</a>: vscode setup</li>
+					<li><a href=>Tutorial 8.2</a>: linting assessment</li>
+					<li><a href=>Tutorial 8.3</a>: coding exercises I</li>					
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 9 <small class="float-right mt-1">2/3/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Review and Discussion of exercises.</li>
+			<li>In class:
+				<ul>
+					<li><a href="../lectures/8.0">Lecture 9.0</a>: Coding exercises review.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href=>Tutorial 9.0</a>: coding exercises 2: function practice</li>
+					<li><a href=>Tutorial 9.1</a>: coding exercises 2: class practice</li>
+					<li><a href=>Tutorial 9.2</a>: coding exercises 2: package practice</li>
+					<li><a href=>Tutorial 9.3</a>: coding exercises 2: notebook practice</li>
 				</ul>
 			</li>
 		</ul>
