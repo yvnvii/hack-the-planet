@@ -237,19 +237,20 @@ Wednesday prep:
 			<li>Learning objective: Python classes and Python style guide.</li>
 			<li>In class:
 				<ul>
-					<li><a href="#">Lecture 8.0</a>: Scripting, style, and Zen of Python.</li>
+					<li><a href="../lectures/8.0">Lecture 8.0</a>: Scripting review, style introduction.</li>
 				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
 					<li><a href="https://www.python.org/dev/peps/pep-0008/">Read</a>: PEP 8</li>
-					<li><a href="#">Read</a>: Zen of Python</li>
-					<li><a href="#">Read</a>: Pythonista</li>					
-					<li><a href="#">Tutorial 8.0</a>: black style</li>					
-					<li><a href="#">Tutorial 8.1</a>: pylint and linting</li>
-					<li><a href="#">Tutorial 8.2</a>: assessment</li>
-					<!-- <li><a href="../tutorials/7.3a-sublimetext.html">Tutorial 7.3a</a>: sublimetext setup</li> -->
-					<!-- <li><a href="../tutorials/7.3b-vscode.html">Tutorial 7.3b</a>: vscode setup</li>				 -->
+					<li><a href="https://www.python.org/dev/peps/pep-0020/">Read</a>: Zen of Python</li>
+					<li>You will receive an email when the tutorials are posted</li>
+					<li><a href=>Tutorial 8.0</a>: black style</li>					
+					<li><a href=>Tutorial 8.1</a>: pylint style</li>
+					<li><a href=>Tutorial 8.2</a>: assessment</li>
+					<li><a href=>Tutorial 8.3a</a>: sublimetext setup</li>
+					<li><a href=>Tutorial 8.3b</a>: vscode setup</li>
+					<li><a href=>Tutorial 8.4</a>: coding exercises I</li>					
 				</ul>
 			</li>
 		</ul>
