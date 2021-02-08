@@ -248,8 +248,7 @@ image: /assets/images/hackers-1.jpg
 				<ul>
 					<li><a href="../tutorials/9.0a-sublimetext3.html">Tutorial 9.0a</a>: sublimetext setup</li>
 					<li><a href="../tutorials/9.0b-vscode.html">Tutorial 9.0b</a>: vscode setup</li>
-					<li><a href=>Tutorial 9.1</a>: editor linting/building assessment</li>
-					<li><a href=>Tutorial 9.2</a>: packaging</li>
+					<li><a href="../tutorials/9.1-exercise.html">Tutorial 9.1</a>: editor linting/building/packaging challenge</li>
 				</ul>
 			</li>
 		</ul>
