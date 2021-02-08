@@ -198,35 +198,6 @@ image: /assets/images/hackers-1.jpg
 </div>		
 
 
-{% comment %}
-
-Monday prep:
-	- lecture:
-		- dicts and sets.
-		- standard lib, os and subprocess
-	- notebooks:
-		- 7.0: subprocess and docstrings.
-		- 7.1: challenge functions.
-	- tuturials:
-		- 7.0: thinking functionally (links to notebooks)
-		- 7.1: scripting setup (paired with videos)
-		- 7.2: challenge: transfer and run script from editor.
-
-Wednesday prep:
-	- lecture:
-		- style and linting.
-		- game challenge demo.
-	- reading on style.
-	- notebooks:
-		- 8.0: auto-stying with black extension.
-	- tutorials:
-		- linting challenge
-		- game devel. challenge
-
-{% endcomment %}
-
-
-
 
 <div class="card mb-4">
 	<div class="card-header">
@@ -244,12 +215,7 @@ Wednesday prep:
 				<ul>
 					<li><a href="https://www.python.org/dev/peps/pep-0008/">Read</a>: PEP 8</li>
 					<li><a href="https://www.python.org/dev/peps/pep-0020/">Read</a>: Zen of Python</li>
-					<li>You will receive an email when the missing links to tutorials are updated</li>
-					<li><a href="../tutorials/8.0-style.html">Tutorial 8.0</a>: black style</li>					
-					<li><a href=>Tutorial 8.1a</a>: sublimetext setup</li>
-					<li><a href=>Tutorial 8.1b</a>: vscode setup</li>
-					<li><a href=>Tutorial 8.2</a>: linting assessment</li>
-					<li><a href=>Tutorial 8.3</a>: coding exercises I</li>					
+					<li><a href="../tutorials/8.0-style.html">Tutorial 8.0</a>: black style</li>
 				</ul>
 			</li>
 		</ul>
@@ -258,28 +224,63 @@ Wednesday prep:
 
 
 
+{% comment %}
+
+1. demonstrate the hello-script.py program.
+2. 
+
+{% endcomment %}
+
+
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 9 <small class="float-right mt-1">2/3/2021</small></h5>
+		<h5 class="mb-0">Session 9 <small class="float-right mt-1">2/8/2021</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
-			<li>Learning objective: Review and Discussion of exercises.</li>
+			<li>Learning objective: Review of Python scripting</li>
 			<li>In class:
 				<ul>
-					<li><a href="../lectures/8.0">Lecture 9.0</a>: Coding exercises review.</li>
+					<li>Lecture 9.0: interactive coding demonstration (see zoom recording).</li>
 				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href=>Tutorial 9.0</a>: coding exercises 2: function practice</li>
-					<li><a href=>Tutorial 9.1</a>: coding exercises 2: class practice</li>
-					<li><a href=>Tutorial 9.2</a>: coding exercises 2: package practice</li>
-					<li><a href=>Tutorial 9.3</a>: coding exercises 2: notebook practice</li>
+					<li><a href="../tutorials/9.0a-sublimetext3.html">Tutorial 9.0a</a>: sublimetext setup</li>
+					<li><a href="../tutorials/9.0b-vscode.html">Tutorial 9.0b</a>: vscode setup</li>
+					<li><a href=>Tutorial 9.1</a>: editor linting/building assessment</li>
+					<li><a href=>Tutorial 9.2</a>: packaging</li>
 				</ul>
 			</li>
 		</ul>
 	</div>
 </div>		
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 10 <small class="float-right mt-1">2/10/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Python Data Science</li>
+			<li>In class:
+				<ul>
+					<li>Lecture 10.0: Numpy and Pandas</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapters 2 & 3</a>
+					<li><a href=>Tutorial 10.0</a>: Numpy practical</li>
+					<li><a href=>Tutorial 10.1</a>: Pandas practical</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
+
 
 ... More coming soon.
