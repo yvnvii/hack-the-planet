@@ -297,7 +297,7 @@ image: /assets/images/hackers-1.jpg
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapter 4</a>
+					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapter 4</a></li>
 				</ul>
 			</li>
 		</ul>
