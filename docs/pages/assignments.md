@@ -272,6 +272,7 @@ image: /assets/images/hackers-1.jpg
 			<li>Assignment:
 				<ul>
 					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapters 2 & 3</a></li>
+					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Practice binder notebooks (10.0, 10.1, 10.2)</a></li>
 					<li><a href="../tutorials/10.0-data-science.html">Tutorial 10.0</a>: data science project</li>
 				</ul>
 			</li>
