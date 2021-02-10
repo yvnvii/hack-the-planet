@@ -13,6 +13,8 @@
   dropdown:
     - name: Schedule
       link: /pages/schedule.html
+    - name: Repos
+      link: /pages/repos.html
 
 - name: External
   dropdown:
