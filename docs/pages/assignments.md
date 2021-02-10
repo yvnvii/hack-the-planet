@@ -266,14 +266,13 @@ image: /assets/images/hackers-1.jpg
 			<li>Learning objective: Python Data Science</li>
 			<li>In class:
 				<ul>
-					<li>Lecture 10.0: Numpy and Pandas</li>
+					<li><a href="../lectures/10.0/">Lecture 10.0: Numpy and Pandas</a></li>
 				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapters 2 & 3</a>
-					<li><a href=>Tutorial 10.0</a>: Numpy practical</li>
-					<li><a href=>Tutorial 10.1</a>: Pandas practical</li>
+					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapters 2 & 3</a></li>
+					<li><a href="../tutorials/10.0-data-science.html">Tutorial 10.0</a>: data science project</li>
 				</ul>
 			</li>
 		</ul>
@@ -282,4 +281,25 @@ image: /assets/images/hackers-1.jpg
 
 
 
-... More coming soon.
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 11 <small class="float-right mt-1">2/15/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Python Data Science II</li>
+			<li>In class:
+				<ul>
+					<li><a href="../lectures/10.0/">Lecture 11.0: Numpy and Pandas II</a></li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapter 4</a>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
