@@ -282,28 +282,28 @@ image: /assets/images/hackers-1.jpg
 
 
 
-
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 11 <small class="float-right mt-1">2/15/2021</small></h5>
+		<h5 class="mb-0">Session 12 <small class="float-right mt-1">2/15/2021</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
-			<li>Learning objective: Python Data Science II</li>
+			<li>Learning objective: Project planning</li>
 			<li>In class:
-<!-- 				<ul>
-					<li><a href="../lectures/10.0/">Lecture 11.0: Numpy and Pandas II</a></li>
-				</ul>   -->
+				<ul>
+					<li><a href="../lectures/11.0/">Lecture 11.0: Numpy/Pandas review</a></li>
+				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
 					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapter 4</a></li>
+					<li><a href="../tutorials/project-planning-1.html/">Project planning 1</a></li>
+					<li><a href="../tutorials/project-planning-2.html/">Project planning 2</a></li>
 				</ul>
 			</li>
 		</ul>
 	</div>
 </div>		
-
 
 
 
