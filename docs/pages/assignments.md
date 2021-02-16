@@ -297,8 +297,8 @@ image: /assets/images/hackers-1.jpg
 			<li>Assignment:
 				<ul>
 					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapter 4</a></li>
-					<li><a href="../tutorials/project-planning-1.html/">Project planning 1</a></li>
-					<li><a href="../tutorials/project-planning-2.html/">Project planning 2</a></li>
+					<li><a href="../tutorials/project-planning-1.html">Project planning 1</a></li>
+					<li><a href="../tutorials/project-planning-2.html">Project planning 2</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -307,7 +307,7 @@ image: /assets/images/hackers-1.jpg
 
 
 
-
+<!-- 
 <div class="card mb-4">
 	<div class="card-header">
 		<h5 class="mb-0">Session 12 <small class="float-right mt-1">2/17/2021</small></h5>
@@ -331,3 +331,4 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+ -->
