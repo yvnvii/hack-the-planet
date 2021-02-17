@@ -323,7 +323,7 @@ image: /assets/images/hackers-1.jpg
 			<li>Assignment:
 				<ul>
 					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Binder notebook (12.0)</a></li>
-					<li><a href="../tutorials/12.0-fastapi.html">Python REST API</a></li>
+					<li><a href="../tutorials/12.0-fastapi.html">Tutorial 12.0: Python REST API</a></li>
 				</ul>
 			</li>
 		</ul>
