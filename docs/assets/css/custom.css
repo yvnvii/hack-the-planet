@@ -44,11 +44,11 @@
 /* custom bullet points from hash images*/
 
 .hash-table {
-  /*list-style:none;*/
+  list-style:none;
   padding-left: 1em;
   font-size: 1rem;
   color: #262626; 
-  list-style-position: outside;
+  /*list-style-position: outside;*/
 }
 ul.hash-table li:nth-child(4n+1):before {
     content: '';
