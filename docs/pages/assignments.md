@@ -335,7 +335,7 @@ image: /assets/images/hackers-1.jpg
 			<li>Learning objective: Project planning</li>
 			<li>In class:
 				<ul>
-					<li><a href="../lectures/13.0/">Lecture 13.0: Review and projects</a></li>
+					<li>Lecture 13.0: Review and projects</li>
 				</ul>
 			</li>
 			<li>Assignment:
