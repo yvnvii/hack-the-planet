@@ -188,6 +188,7 @@ image: /assets/images/hackers-1.jpg
 				<ul>
 					<li><a href="../tutorials/7.0-subprocess.html">Tutorial 7.0</a>: subprocess notebook</li>
 					<li><a href="../tutorials/7.1-think.html">Tutorial 7.1</a>: thinking functionally</li>
+					<!-- Next time be more clear about CLI as an optional interface, perhaps use Click -->
 					<li><a href="../tutorials/7.2-scripting.html">Tutorial 7.2</a>: scripting and execution</li>
 					<li><a href="../tutorials/7.3-imports.html">Tutorial 7.3</a>: imports and modules</li>
 					<li><a href="../tutorials/7.4-classes.html">Tutorial 7.4</a>: intro to classes</li>
@@ -213,8 +214,8 @@ image: /assets/images/hackers-1.jpg
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href="https://www.python.org/dev/peps/pep-0008/">Read</a>: PEP 8</li>
 					<li><a href="https://www.python.org/dev/peps/pep-0020/">Read</a>: Zen of Python</li>
+					<li><a href="https://docs.python-guide.org/writing/style/">Read</a>: Python Style</li>
 					<li><a href="../tutorials/8.0-style.html">Tutorial 8.0</a>: black style</li>
 				</ul>
 			</li>
@@ -222,14 +223,6 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>
 
-
-
-{% comment %}
-
-1. demonstrate the hello-script.py program.
-2. 
-
-{% endcomment %}
 
 
 <div class="card mb-4">
@@ -324,6 +317,33 @@ image: /assets/images/hackers-1.jpg
 				<ul>
 					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Binder notebook (12.0)</a></li>
 					<li><a href="../tutorials/12.0-fastapi.html">Tutorial 12.0: Python REST API</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 13 <small class="float-right mt-1">2/22/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Project planning</li>
+			<li>In class:
+				<ul>
+					<li><a href="../lectures/13.0/">Lecture 13.0: Review and projects</a></li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li>Review: git, argparse, linters</li>
+					<!-- <li>Midpoint assessment poll</li> -->
+					<li>Turning our focus back to source code</li>
+					<li><a href="./proposals.html">Project proposals</a></li>
 				</ul>
 			</li>
 		</ul>
