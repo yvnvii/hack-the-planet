@@ -350,3 +350,28 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 14 <small class="float-right mt-1">2/24/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Project planning</li>
+			<li>In class:
+				<ul>
+					<li>Lecture 14.0: Review and projects</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li>Collaboration and project discussions</li>
+					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Binder notebook (14.0)</a></li>					
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
