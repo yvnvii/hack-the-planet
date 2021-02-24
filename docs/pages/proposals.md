@@ -160,6 +160,17 @@ Test to make sure your code is installable, even if the Python
 modules are mostly empty for now.
 
 
+### Goal
+In the following weeks we will begin to engage in *collaborative* coding, 
+where you will fork each others' repos, try out the code, and try to contribute
+to it by making edits. This will be greatly facilitated by a well-written 
+proposal that describes the goal of the software, and the intended design of
+it. As you progress and the code becomes more complex, it may become useful
+to develop further details/descriptions of the code to aid other developers
+in understanding the structure of your code. We will talk more about this 
+in a later session.
+
+
 ### Make your project known
 
 Navigate to the following page on GitHub 
