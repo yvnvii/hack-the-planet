@@ -368,7 +368,35 @@ image: /assets/images/hackers-1.jpg
 			<li>Assignment:
 				<ul>
 					<li>Collaboration and project discussions</li>
-					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Binder notebook (14.0)</a></li>					
+					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Binder notebook (14.0)</a></li>
+					<li><a href="../tutorials/nb-14.0-challenges.html">Solutions</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
+
+
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 15 <small class="float-right mt-1">3/8/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Git collaboration</li>
+			<li>In class:
+				<ul>
+					<li>Notebook assignment review</li>
+					<li>git collaboration example</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="../tutorials/15.0-git-collab.html">git collab</a></li>
 				</ul>
 			</li>
 		</ul>
