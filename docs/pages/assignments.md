@@ -396,7 +396,8 @@ image: /assets/images/hackers-1.jpg
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href="../tutorials/15.0-git-collab.html">git collab</a></li>
+					<li><a href="../tutorials/15.0-git-collab.html">git collab info</a></li>
+					<li><a href="../tutorials/15.0-git-collab-assign.html">git collab assignment</a></li>		
 				</ul>
 			</li>
 		</ul>
