@@ -404,3 +404,28 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 16 <small class="float-right mt-1">3/15/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Git conflicts</li>
+			<li>In class:
+				<ul>
+					<li>git collaboration discussions</li>
+					<li>git conflict example</li>					
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="../tutorials/16.0-git-conflict.html">git conflicts</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
