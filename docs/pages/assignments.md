@@ -429,3 +429,30 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 17 <small class="float-right mt-1">3/17/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Project structure</li>
+			<li>In class:
+				<ul>
+					<li>Eaton lab repos walkthrough</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="https://realpython.com/python-concurrency/">Reading: Python concurrency</a></li>
+					<li><a href="https://loguru.readthedocs.io/en/stable/index.html">Reading: Python logging</a></li>					
+					<li><a href="../tutorials/17.0-minimal-working.html">minimal working example</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+

@@ -20,7 +20,8 @@ image: /assets/images/hackers-2.jpg
     {% for row in site.data.usernames %}
     <tr>
       <th scope="col">{{ row["Username"] }}</th>
-      <th scope="col">{{ row["Project"] }}</th>
+      <!-- <th scope="col">{{ row["Project"] }}</th> -->
+      <th scope="col"><a href="https://github.com/{{ row['Username'] }}/{{ row['Project'] }}">{{ row["Project"] }}</a></th>      
       <th scope="col"><a href="https://github.com/{{ row['Username'] }}">https://github.com/{{ row['Username'] }}</a></th>
     </tr>
     {% endfor %}
