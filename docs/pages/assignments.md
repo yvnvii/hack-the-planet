@@ -456,3 +456,30 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+
+
+
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 18 <small class="float-right mt-1">3/17/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Pair programming</li>
+			<li>In class:
+				<ul>
+					<li>Python concurrency.</li>					
+					<li>Pair programming demo.</li>
+				</ul>
+			</li>
+			<li>Assignment:
+				<ul>
+					<li><a href="../tutorials/18.0-pair-program.html">pair programming 2</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
