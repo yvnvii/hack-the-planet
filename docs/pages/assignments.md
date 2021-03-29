@@ -502,7 +502,7 @@ image: /assets/images/hackers-1.jpg
 			</li>
 			<li>Reading:
 				<ul>
-					<li><a href="../tutorials/23.0-visualizations.html">rasters/vectors</a></li>
+					<li><a href="../tutorials/23.0-visualization.html">rasters/vectors</a></li>
 					<li><a href="../tutorials/23.1-svgs.html">html/css/js/svg</a></li>					
 				</ul>
 			</li>
