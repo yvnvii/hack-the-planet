@@ -483,3 +483,30 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+
+...
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 23 <small class="float-right mt-1">3/29/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Plotting/Markup </li>
+			<li>In class:
+				<ul>
+					<li>Markup intro</li>					
+					<li>Paired programming check-in</li>					
+				</ul>
+			</li>
+			<li>Reading:
+				<ul>
+					<li><a href="../tutorials/23.0-visualizations.html">rasters/vectors</a></li>
+					<li><a href="../tutorials/23.1-svgs.html">html/css/js/svg</a></li>					
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
