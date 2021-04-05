@@ -510,3 +510,30 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
+
+
+<div class="card mb-4">
+	<div class="card-header">
+		<h5 class="mb-0">Session 25 <small class="float-right mt-1">4/5/2021</small></h5>
+	</div>
+	<div class="card-body">
+		<ul class="mb-0">
+			<li>Learning objective: Geographical data </li>
+			<li>In class:
+				<ul>
+					<li>Markup continued</li>
+					<li>earth engine</li>					
+				</ul>
+			</li>
+			<li>Reading:
+				<ul>
+					<li><a href="../tutorials/25.0-folium.html">folium</a></li>
+					<li><a href="../tutorials/25.1-folium-vectors.html">geojson</a></li>
+					<!-- <li><a href="../tutorials/25.2-earthengine.html">earthengine</a></li> -->
+					<!-- <li><a href="../tutorials/25.3-earthengine.html">earthengine2</a></li>		 -->
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>		
+
