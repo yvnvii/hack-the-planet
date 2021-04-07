@@ -17,6 +17,8 @@
       link: /pages/repos.html
     - name: Presentations
       link: /pages/presentations.html
+    - name: Project Submissions
+      link: /pages/project-submit.html
 
 - name: External
   dropdown:
