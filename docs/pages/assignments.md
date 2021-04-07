@@ -555,7 +555,7 @@ image: /assets/images/hackers-1.jpg
 			</li>
 			<li>Reading:
 				<ul>
-					<!-- <li><a href="../tutorials/25.0-folium.html">folium</a></li> -->
+					<li><a href="https://www.mkdocs.org/">mkdocs documentation</a></li>
 					<!-- <li><a href="../tutorials/25.1-folium-vectors.html">geojson</a></li> -->
 					<!-- <li><a href="../tutorials/25.2-earthengine.html">earthengine</a></li> -->
 					<!-- <li><a href="../tutorials/25.3-earthengine.html">earthengine2</a></li>		 -->
