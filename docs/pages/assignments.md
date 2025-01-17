@@ -181,14 +181,14 @@ image: /assets/images/hackers-1.jpg
 			<li>In class:
 				<ul>
 					<li>interactive discussion</li>
-					<!-- <li><a href="#">Lecture 7.0</a>: Python stdlib and scripting.</li> -->
+					<li><a href="#">Lecture 7.0</a>: Python stdlib and scripting.</li>
 				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
 					<li><a href="../tutorials/7.0-subprocess.html">Tutorial 7.0</a>: subprocess notebook</li>
 					<li><a href="../tutorials/7.1-think.html">Tutorial 7.1</a>: thinking functionally</li>
-					<!-- Next time be more clear about CLI as an optional interface, perhaps use Click -->
+					<li><b>Note to self:Next time be more clear about CLI as an optional interface, perhaps use Click</b></li>
 					<li><a href="../tutorials/7.2-scripting.html">Tutorial 7.2</a>: scripting and execution</li>
 					<li><a href="../tutorials/7.3-imports.html">Tutorial 7.3</a>: imports and modules</li>
 					<li><a href="../tutorials/7.4-classes.html">Tutorial 7.4</a>: intro to classes</li>
@@ -341,7 +341,7 @@ image: /assets/images/hackers-1.jpg
 			<li>Assignment:
 				<ul>
 					<li>Review: git, argparse, linters</li>
-					<!-- <li>Midpoint assessment poll</li> -->
+					<li><b>Midpoint assessment poll</b></li>
 					<li>Turning our focus back to source code</li>
 					<li><a href="./proposals.html">Project proposals</a></li>
 				</ul>
@@ -556,9 +556,9 @@ image: /assets/images/hackers-1.jpg
 			<li>Reading:
 				<ul>
 					<li><a href="https://www.mkdocs.org/">mkdocs documentation</a></li>
-					<!-- <li><a href="../tutorials/25.1-folium-vectors.html">geojson</a></li> -->
-					<!-- <li><a href="../tutorials/25.2-earthengine.html">earthengine</a></li> -->
-					<!-- <li><a href="../tutorials/25.3-earthengine.html">earthengine2</a></li>		 -->
+					<li><a href="../tutorials/25.1-folium-vectors.html">geojson</a></li>
+					<li><a href="../tutorials/25.2-earthengine.html">earthengine</a></li>
+					<li><a href="../tutorials/25.3-earthengine.html">earthengine2</a></li>
 				</ul>
 			</li>
 		</ul>
