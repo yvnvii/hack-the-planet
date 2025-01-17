@@ -6,12 +6,14 @@ image: /assets/images/hackers-5.jpg
 
 ## Syllabus: 
 - **Title:** Programming and Data Science for Biology (EEEB G4050)
-- **Term:** Spring 2021
+- **Term:** Spring 2025
 - **Department:** Ecology, Evolution, and Environmental Biology (E3B)
-- **Instructor:** Deren Eaton ([de2356@columbia.edu](mailto:de2356@columbia.edu), he/him), 
+- **Instructors:** Deren Eaton (de2356@columbia.edu, he/him) & Isaac Overcast (iao2122@columbia.edu, he/him)
+<!--
 - **Teaching Assistant:** Jared Meek ([jared.meek@columbia.edu](jared.meek@columbia.edu), he/him)
-- **Location:** Zoom remote video calls (see Canvas for links)
-- **Time:** M and W 1:10-2:30pm
+-->
+- **Location:** 329 Uris Hall
+- **Day/Time:** Tu/Th 10:10-11:25am
 - **Course level:** 4000 (graduate but open to advanced undergraduates)
 - **Credits:** 3
 - **Office hours:** TBD by zoom
@@ -39,6 +41,26 @@ image: /assets/images/hackers-5.jpg
 **Attendance policy:** This course relies upon student participation and, thus, attendance is expected. Absences will incur a grade penalty unless excused. Students who are unable to attend class for health or other personal reasons should reach out to the instructors. We understand that there are many legitimate reasons for absences, so do please reach out.
 
 **Statement on policy for students with disabilities:** If you are a student with a disability and have a Disability Services-certified ‘Accommodation Letter’ please contact the instructors before the course starts to confirm your accommodation needs. If you believe that you might have a disability that requires accommodation, you should contact Disability Services at 212-854-2388 and [disability@columbia.edu](mailto:disability@columbia.edu).
+
+**Statement on use of generative AI in coursework:**
+Students are not discouraged from using AI tools, such as ChatGPT or similar
+technologies, to support their learning and assignments. However, the use of AI
+must be acknowledged clearly in your submissions. For example, you can include
+a brief note stating, "This analysis was generated with the assistance of [AI
+tool name]."
+
+While AI can be a powerful resource, it is not infallible. These tools can
+occasionally produce incorrect or misleading information, and relying on them
+exclusively may hinder your ability to critically evaluate data, methods, and
+results. Therefore, you are expected to:
+* Verify Information: Cross-check AI-generated outputs against authoritative sources or class materials.
+* Develop Independent Skills: Engage with the concepts and tools independently to ensure you can identify when AI outputs are inaccurate or suboptimal.
+* Take Responsibility: Ultimately, you are accountable for the content and quality of your work, regardless of whether it was AI-assisted.
+
+By using AI judiciously and critically, you will enhance your ability to
+evaluate the reliability of data and tools, which is a vital skill in data
+science. This statement on the use of generative AI was generated with the
+assistance of ChatGPT.
 
 **Statement of academic integrity:** Academic dishonesty is a serious offense and will not
 be tolerated in the class. Students are expected to reference sources appropriately in
