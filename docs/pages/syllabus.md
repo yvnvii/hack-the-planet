@@ -9,9 +9,6 @@ image: /assets/images/hackers-5.jpg
 - **Term:** Spring 2025
 - **Department:** Ecology, Evolution, and Environmental Biology (E3B)
 - **Instructors:** Deren Eaton (de2356@columbia.edu, he/him) & Isaac Overcast (iao2122@columbia.edu, he/him)
-<!--
-- **Teaching Assistant:** Jared Meek ([jared.meek@columbia.edu](jared.meek@columbia.edu), he/him)
--->
 - **Location:** 329 Uris Hall
 - **Day/Time:** Tu/Th 10:10-11:25am
 - **Course level:** 4000 (graduate but open to advanced undergraduates)
