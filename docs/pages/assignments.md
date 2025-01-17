@@ -44,7 +44,7 @@ image: /assets/images/hackers-1.jpg
 	</div>
 </div>		
 
-
+<!--
 <div class="card mb-4">
 	<div class="card-header">
 		<h5 class="mb-0">Session 2 <small class="float-right mt-1">1/13/2021</small></h5>
@@ -564,4 +564,4 @@ image: /assets/images/hackers-1.jpg
 		</ul>
 	</div>
 </div>		
-
+-->
