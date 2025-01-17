@@ -23,7 +23,7 @@
 - name: External
   dropdown:
     - name: Canvas
-      link: https://courseworks2.columbia.edu/courses/119078
+      link: https://courseworks2.columbia.edu/courses/sis_course_id:EEEBW4050_001_2025_1
       external: true      
     - name: Gitter Chartoom
       link: https://gitter.im/hack-the-planet-course/community    
