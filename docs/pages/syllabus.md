@@ -28,8 +28,11 @@ image: /assets/images/hackers-5.jpg
 - 10% Project presentation  
 - 20% Project final  
 
-**Participation:** In addition to attendance you are expected to contribute to discussions in class by asking questions, and to interact with your peers through breakout session code reviews.
-
+**Participation:** In addition to attendance you are expected to contribute to
+discussions in class by asking questions, and to interact with your peers through
+breakout session code reviews. Participating in the
+[Gitter chatroom](https://app.gitter.im/#/room/#hack-the-planet-course_community:gitter.im)
+also 'counts' as participation.
 
 **Assignments:** Code-based assignments are used to assess comprehension of new concepts learned in class. These are graded on effort, accuracy, and style. 
 

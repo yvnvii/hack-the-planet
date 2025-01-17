@@ -19,7 +19,7 @@ As the name suggests, this class is designed to focus on
 quite different from other classes you have taken that introduced
 programming languages for domain-specific applications, such as 
 statistics or bioinformatics. Here we will focus more generally on 
-learning skills that are generally useful for any type of data science.
+learning skills that are useful for any type of data science.
 This includes an improved understanding of your operating system, of 
 where software resides, of how it is designed, of how programmers write
 software, and of the community and resources that are available to you
@@ -46,8 +46,9 @@ much of programming comes from learning efficient routines, practices,
 and even muscle memory, all of which comes through practice. 
 When you get stuck, try, try, and try again to come up with solutions.
 This mental work of thinking about alternative ways to achieve a goal
-requires practice. In addition, you can by example. Use google. See
-how others have solved this type of problem. 
+requires practice. In addition, you can learn by example. Use google. See
+how others have solved this type of problem. Use ChatGPT, see how AI
+solves different types of problems.
 Treat this course like a hackathon, chat with your colleagues,
 discuss and work on assignments together, and brainstorm project 
 ideas. It should be fun. Drop in and say 'hello world' to the course 
