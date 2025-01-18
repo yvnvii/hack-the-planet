@@ -35,7 +35,7 @@ image: /assets/images/hackers-1.jpg
 			</li>
 			<li>Assignment:
 				<ul>
-					<li><a href="https://forms.gle/hJs3v5v6a5h7K76j6">Poll: on your experience with programming.</a></li>
+					<li><a href="https://forms.gle/gYuxM2UCQirrEbX77">Poll: on your experience with programming.</a></li>
 					<li><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s">Watch: Unix history video (Only watch up to 21:30).</a></li>
 					<li><a href="https://ryanstutorials.net/linuxtutorial/navigation.php">Read linux tutorial sections 1-5.</a> If you are on Windows and do not have WSL2 installed, then wait until next class before installing. For now, use these instructions to connect to a Linux terminal in the cloud to practice exercises in these readings.</li>
 				</ul>
