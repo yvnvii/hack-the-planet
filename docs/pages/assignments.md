@@ -29,15 +29,17 @@ image: /assets/images/hackers-1.jpg
 			<li>Learning objective: Introductions and explanation of the Syllabus. Describe the <i>ethos</i> and goals of this class. Why learn to program? What is programming?</li>
 			<li>In class:
 				<ul>
+					<li><a href="https://eaton-lab.org/hack-the-planet">Visit course website and review syllabus</a></li>					
+					<li><a href="https://pinky.eaton-lab.org">Connect to the course server</a></li>
 					<li><a href="../lectures/1.0">Lecture 1</a>: programming ethos.</li>
-					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Connect to binder notebook server</a>: (1.1. introduction to jupyter notebook.)</li>
 				</ul>
 			</li>
 			<li>Assignment:
 				<ul>
 					<li><a href="https://forms.gle/gYuxM2UCQirrEbX77">Poll: on your experience with programming.</a></li>
 					<li><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0&t=1290s">Watch: Unix history video (Only watch up to 21:30).</a></li>
-					<li><a href="https://ryanstutorials.net/linuxtutorial/navigation.php">Read linux tutorial sections 1-5.</a> If you are on Windows and do not have WSL2 installed, then wait until next class before installing. For now, use these instructions to connect to a Linux terminal in the cloud to practice exercises in these readings.</li>
+					<li><a href="https://www.terminaltutor.com/">Complete the terminal tutor tutorial.</a></li>
+					<!-- <li><a href="https://ryanstutorials.net/linuxtutorial/navigation.php">Read linux tutorial sections 1-5.</a> If you are on Windows and do not have WSL2 installed, then wait until next class before installing. For now, use these instructions to connect to a Linux terminal in the cloud to practice exercises in these readings.</li> -->
 				</ul>
 			</li>
 		</ul>
