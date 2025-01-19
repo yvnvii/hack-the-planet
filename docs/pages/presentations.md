@@ -7,7 +7,7 @@ image: /assets/images/hackers-1.jpg
 
 ### Project Presentations
 
-Project presentations will take place in class on 4/12 and 4/14. 
+Project presentations will take place in class on 5/1 and 5/6. 
 Each presentation should be approximately 7 minutes in length, followed
 by 2-3 minutes of questions. You will need to share your screen during 
 the presentation, which can include showing and demonstrating your 
@@ -72,22 +72,6 @@ that will make planning or developing your next project easier?
 
 ## Schedule
 
-Monday 4/12
-- Lior
-- Scarlet
-- Alice
-- Rachel
-- Yanzhe
-- Henry
-- Roi  
-- Jared          
+Monday 5/1
 
-Wednesday 4/14
-- Tian
-- Aparna
-- Ki Hin
-- Elissa
-- Owen
-- Alex
-- Catherine
-- Jasmina
+Wednesday 5/6
