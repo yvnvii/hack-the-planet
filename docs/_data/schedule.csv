@@ -1,4 +1,4 @@
-Session,Date,Day,Topic,subject,assigment due
+Session,Date,Day,Topic,subject,assigment_due
 1,1/21/2025,T,introduction,"syllabus, ethos, filesystem, unix, bash",
 2,1/23/2025,Th,what is a program?,"bash, tool design, CLI, API, UI, notebooks",1 (intro)
 3,1/28/2025,T,coding tools 1,"git, GitHub, coding editors, linting",2 (software research)

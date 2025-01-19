@@ -25,7 +25,7 @@ image: /assets/images/hackers-2.jpg
   	  <th scope="col">{{ row["Day"] }}</th>  	  
   	  <th scope="col">{{ row["Topic"] }}</th>
   	  <th scope="col">{{ row["subject"] }}</th>
-  	  <th scope="col">{{ row["assignment due"] }}</th>
+  	  <th scope="col">{{ row["assignment_due"] }}</th>
   	</tr>
   	{% endfor %}
   </tbody>
