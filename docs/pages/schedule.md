@@ -20,11 +20,12 @@ image: /assets/images/hackers-2.jpg
   <tbody>
   	{% for row in site.data.schedule %}
   	<tr>
-  	  <th scope="col">{{ row["#"] }}</th>
+  	  <th scope="col">{{ row["Session"] }}</th>
   	  <th scope="col">{{ row["Date"] }}</th>
-  	  <th scope="col">{{ row["Weekday"] }}</th>  	  
+  	  <th scope="col">{{ row["Day"] }}</th>  	  
   	  <th scope="col">{{ row["Topic"] }}</th>
-  	  <th scope="col">{{ row["Event"] }}</th>
+  	  <th scope="col">{{ row["subject"] }}</th>
+  	  <th scope="col">{{ row["assignment due"] }}</th>
   	</tr>
   	{% endfor %}
   </tbody>
