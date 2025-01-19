@@ -72,7 +72,7 @@ image: /assets/images/hackers-1.jpg
 					<li>Try to install Windows Subsystem for Linux 2.</li>
 					<li><a href="https://www.youtube.com/watch?v=_fntjriRe48">graphical tutorial</a> (Note: Only follow instructions up to 6:20. make sure when you create a username that does not have any spaces in it. Only install WSL2 and Ubuntu 20.04, do not follow instructions after 6:20 where he installs additional versions.)</li>
 					<li><a href="https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10">alternative command line tutorial</a></li>
-					<li>If problems, please join office hours at the Canvas zoom link on Friday 1/15 at 3pm, or Tues 1/19 at 10am.</li>
+					<li>If problems, contact Isaac to schedule a one-on-one help session.</li>
 				</ul>
 			</li>
 		</ul>
