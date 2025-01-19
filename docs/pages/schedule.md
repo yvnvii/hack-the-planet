@@ -12,7 +12,7 @@ image: /assets/images/hackers-2.jpg
   <caption>Schedule of class sessions</caption>
   <thead class="thead-dark">
     <tr>   
-	  {% for keyval in site.data.schedule-2025[0] %}
+	  {% for keyval in site.data.schedule[0] %}
 	  <th scope="col">{{ keyval[0] }}</th>
 	  {% endfor %}
 	</tr>
