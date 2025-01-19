@@ -22,7 +22,7 @@ image: /assets/images/hackers-1.jpg
 
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 1 <small class="float-right mt-1">1/11/2021</small></h5>
+		<h5 class="mb-0">Session 1 <small class="float-right mt-1">1/21/2021</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
@@ -49,7 +49,7 @@ image: /assets/images/hackers-1.jpg
 <!--
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 2 <small class="float-right mt-1">1/13/2021</small></h5>
+		<h5 class="mb-0">Session 2 <small class="float-right mt-1">1/23/2021</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
