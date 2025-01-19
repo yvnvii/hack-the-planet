@@ -22,7 +22,7 @@ image: /assets/images/hackers-1.jpg
 
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 1 <small class="float-right mt-1">1/21/2021</small></h5>
+		<h5 class="mb-0">Session 1 <small class="float-right mt-1">1/21/2025</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
@@ -49,7 +49,7 @@ image: /assets/images/hackers-1.jpg
 <!--
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 2 <small class="float-right mt-1">1/23/2021</small></h5>
+		<h5 class="mb-0">Session 2 <small class="float-right mt-1">1/23/2025</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
@@ -67,7 +67,7 @@ image: /assets/images/hackers-1.jpg
 					<li><a href="https://mybinder.org/v2/gh/eaton-lab/hack-the-planet/HEAD?filepath=notebooks">Notebook 2.0</a>: bash assessment</li>
 				</ul>
 			</li>
-			<li>Before Wednesday (<b>Windows users only</b>):
+			<li>Before Tuesday (<b>Windows users only</b>):
 				<ul>
 					<li>Try to install Windows Subsystem for Linux 2.</li>
 					<li><a href="https://www.youtube.com/watch?v=_fntjriRe48">graphical tutorial</a> (Note: Only follow instructions up to 6:20. make sure when you create a username that does not have any spaces in it. Only install WSL2 and Ubuntu 20.04, do not follow instructions after 6:20 where he installs additional versions.)</li>
@@ -82,20 +82,7 @@ image: /assets/images/hackers-1.jpg
 
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 3 <small class="float-right mt-1">1/18/2021</small></h5>		
-	</div>
-	<div class="card-body">
-		<ul class="mb-0">
-			<li>No Class; University holiday</li>
-		</ul>
-	</div>
-</div>		
-
-
-
-<div class="card mb-4">
-	<div class="card-header">
-		<h5 class="mb-0">Session 4 <small class="float-right mt-1">1/20/2021</small></h5>
+		<h5 class="mb-0">Session 3 <small class="float-right mt-1">1/28/2025</small></h5>
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
@@ -121,7 +108,7 @@ image: /assets/images/hackers-1.jpg
 
 <div class="card mb-4">
 	<div class="card-header">
-		<h5 class="mb-0">Session 5 <small class="float-right mt-1">1/25/2021</small></h5>		
+		<h5 class="mb-0">Session 4 <small class="float-right mt-1">1/30/2025</small></h5>		
 	</div>
 	<div class="card-body">
 		<ul class="mb-0">
