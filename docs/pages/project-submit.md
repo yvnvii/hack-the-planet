@@ -7,7 +7,7 @@ image: /assets/images/hackers-1.jpg
 
 ### Final Project Submission
 
-Your final project submission is due on **4/21/2022** at 1pm EST. We will
+Your final project submission is due on **5/13/2025** at 1pm EST. We will
 begin grading projects based on commits made by this time, but you are of 
 course welcome to continue working on your projects for as long as you would
 like after class. 
