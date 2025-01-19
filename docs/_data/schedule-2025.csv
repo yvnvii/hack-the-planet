@@ -1,0 +1,33 @@
+Session,Date,Day,Topic,subject,assigment due
+1,1/21/2025,T,introduction,"syllabus, ethos, filesystem, unix, bash",
+2,1/23/2025,Th,what is a program?,"bash, tool design, CLI, API, UI, notebooks",1 (intro)
+3,1/28/2025,T,coding tools 1,"git, GitHub, coding editors, linting",2 (software research)
+4,1/30/2025,Th,coding tools 2,"conda, docker, source, R, Python",
+5,2/4/2025,T,Project design,big vision planning; examples; what is possible?,3 (install)
+6,2/11/2025,Th,Python 1,"types, standard library, exceptions, flow, functions",
+7,2/13/2025,T,Python 2,"exceptions, IO, subprocess, classes",4 (Python I)
+8,2/18/2025,Th,Python 3,"scientific python (numpy, scipy, pandas)",5 (Python II)
+9,2/20/2025,T,writing scripts,"main, argparse, logging",6 (Python III)
+10,2/25/2025,Th,intro to biol. data,"taxonomy, geography, genomic, tabular, JSON, ...",mini-project assigned
+11,2/27/2025,T,collaborative coding,revisit git and GitHub,
+12,3/4/2025,Th,Python 4,"statistical analysis (sklearn, scipy, matplotlib, ...)",7 (git/GitHub)
+13,3/6/2025,T,Python 5,packaging; organization; comments; docs; type hints,8 (statistical)
+14,3/11/2025,Th,review of coding basics,review of coding basics,project pre-proposals due
+15,3/13/2025,T,review of mini-projects,mini-project assignment review,mini-project due
+-- break,3/18/2025,Th,--,,
+-- break,3/20/2025,T,--,,
+16,3/25/2025,Th,Project design 2,"outline, skeleton, minimal, modular",
+17,3/27/2025,T,Project prop. presentations,lightning talks,project proposals due
+18,4/1/2025,Th,Project init Hackathon,first push,
+19,4/3/2025,T,HPC scripting,moto; SLURM; e3b; efficiency,
+20,4/8/2025,Th,Example code walkthrough,API; evolutionary data analysis,9 (HPC)
+21,4/10/2025,T,Big data tricks,generators; block IO; parallelization,
+22,4/15/2025,Th,Example: genomic tools,CLI; genomic data analysis,
+23,4/17/2025,T,style and etiquette,pep; black; branch; issues; README,
+24,4/22/2025,Th,Example: Google Earth Engine,API; cloud; geospatial data examples,
+25,4/24/2025,T,Visualization SVG/HTML/JS,visual languages and scripting,10 (spatial)
+26,4/29/2025,Th,REST APIs ,fetching/scraping web data,
+27,5/1/2025,T,Project presentations,presentations group 1,
+28,5/6/2025,Th,Project presentations,presentations group 2,
+-- reading week,5/8/2025,T,--,,
+-- final,5/13/2025,Th,Final Exam,,project due
