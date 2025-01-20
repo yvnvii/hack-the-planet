@@ -22,18 +22,28 @@
   line-height: 1.2;
 }
 
+.reveal .slides .title5 {
+  margin-left: auto; 
+  margin-top: 5%;
+  color: #5ab4ac;
+  line-height: 1.2;
+}
+
 .reveal .slides .standard {
   margin-left: auto; 
   margin-top: 2%;
 }
 
+.reveal .slides .textbox {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 .reveal .slides .textbox p {
   font-size: 0.9em; 
   text-align: left;
-  margin-left: 10%;
-  margin-right: 10%;
   color: #F0EAD6;
-  line-height: 1.55em;  
+  line-height: 1.55em;
 }
 
 .reveal b {
@@ -78,6 +88,29 @@
 
 
 /***********************************
+BULLET POINTS
+***********************************/
+
+/* Styling the unordered list */
+.reveal .slides ul.bulletbox {
+  margin-left: 10%;
+  margin-right: 10%;
+  list-style-position: inside;  /* Ensures bullets stay aligned with the text */
+  padding-left: 0;  /* Removes default padding */
+}
+
+/* Styling the list items */
+.reveal .slides ul.bulletbox li {
+  font-size: 0.9em; 
+  text-align: left;
+  color: #F0EAD6;
+  line-height: 1.55em;
+  margin-bottom: 0px; /* Adds space between list items */
+  padding-left: 1.5em; /* Creates space between the bullet and the text */
+}
+
+
+/***********************************
 APPLIES TO CODE BLOCKS 
 ***********************************/
 .reveal pre {
@@ -85,26 +118,26 @@ APPLIES TO CODE BLOCKS
   position: relative;
   width: 80%;
   margin: 20px auto;
-  text-align: left;
-  font-size: 0.75em;    
-  font-family: monospace;
-  line-height: 1.45;   
   word-wrap: break-word;
   box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
   outline: 3px solid rgba(255, 255, 255, 0.3);
 }
 
 .reveal code {
+  text-align: left;
   font-family: monospace;
   text-transform: none; 
 }
 
 .reveal pre code {
   display: block;
-  padding: 10px 20px ;
+  padding: 20px 20px ;
   overflow: auto;
   max-height: 500px;
-  word-wrap: normal; 
+  word-wrap: normal;
+  max-height: 650px;
+  font-size: 18px;
+  line-height: 1.35;
 }
 
 

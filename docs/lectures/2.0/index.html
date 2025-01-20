@@ -1,0 +1,360 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="author" content="Deren Eaton">
+
+  <!-- core, theme, and additional CSS styling -->
+  <link rel="stylesheet" href="../revealjs/dist/reset.css">    
+  <link rel="stylesheet" href="../revealjs/dist/reveal.css">  
+  <link rel="stylesheet" href="../../stylesheets/slides.css">  
+  <link rel="stylesheet" href="../revealjs/plugin/highlight/monokai.css">
+</head>
+
+<body>
+	<div class="reveal">
+		<div class="slides">
+
+      <section>
+        <div style="margin-left: auto; margin-top: 15%">
+          <h2 class="title" style="color:#5ab4ac;line-height: 1.25">
+            Programming and Data Science for Biology<br>(EEEB G4050)</h2>
+          <h4 style="color:grey; font-weight: 400; line-height: 1.5"> 
+            <i>Lecture 2: Program design</i></h4>
+        </div>
+      </section>
+
+
+      <section>
+        <div class="standard">
+          <h3 class="title">Lecture outline</h3>
+          <ul class="bulletbox" style="margin-left: 35%; font-size: 50px">
+            <li>poll results</li>
+            <li>program design</li>
+            <li>dev tips</li>
+          </ul>
+        </div>
+      </section>
+
+    <!-- =================================================================================================================== -->
+    <!-- ===== POLL RESULTS ================================================================================================ -->
+    <!-- =================================================================================================================== -->        
+
+      <section>
+        <section>
+          <div class="standard">
+            <h3 class="title5">Poll results: Programming experience</h3>
+            <div class="textbox"><p>
+            Experience is quite varied. This is a good thing. For beginners,
+            you can seek help from more advanced students. For advanced students,
+            you can learn a lot about coding, and teaching, by troubleshooting problems that others encounter.
+            </p></div>
+            <!-- INSERT IFRAME HERE? -->
+            <img src="./poll-1.png" style="width:60%">
+          </div>
+        </section>
+
+        <section>
+          <div class="standard">
+            <h3 class="title5">Poll results: Programming experience</h3>
+            <div class="textbox"><p>
+            Experience is quite varied. This is a good thing. For beginners,
+            you can seek help from more advanced students. For advanced students,
+            you can learn a lot about coding, and teaching, by troubleshooting problems that others encounter.
+            </p></div>
+            <img src="./poll-2.png" style="width:60%">
+          </div>
+        </section>
+
+        <section>
+          <div class="standard">
+            <h3 class="title5">Poll results: Programming experience</h3>
+            <div class="textbox"><p>
+            Experience is quite varied. This is a good thing. For beginners,
+            you can seek help from more advanced students. For advanced students,
+            you can learn a lot about coding, and teaching, by troubleshooting problems that others encounter.
+            </p></div>
+            <img src="./poll-3.png" style="width:60%">
+          </div>
+        </section>
+
+        <section>
+          <div class="standard">
+            <h3 class="title5">Poll results: Programming experience</h3>
+            <div class="textbox"><p>
+            Experience is quite varied. This is a good thing. For beginners,
+            you can seek help from more advanced students. For advanced students,
+            you can learn a lot about coding, and teaching, by troubleshooting problems that others encounter.
+            </p></div>
+            <img src="./poll-4.png" style="width:60%">
+          </div>
+        </section>                                                
+
+
+        <section>
+          <div class="standard">
+            <h3 class="title5">Poll results: Programming experience</h3>
+            <div class="textbox"><p>
+            Do you have a program in mind that you wish to develop? 
+            <br>Example responses (paraphrased):</p></div>
+            <ul class="bulletbox">
+              <li class="items">input is data (e.g., CSV); analysis is statistical; output is result/plot/etc.</li>
+              <li class="items">input is a complex document (e.g., PDF); data is parsed from it, transformed, and returned.</li>
+              <li class="items">input is args/params; data is extracted  
+                from online database; analysis; return result/plot/etc.</li>
+              <li class="items">input is args/params; analysis uses wrapper around existing software; return formatted result.</li>
+            </ul>
+          </div>
+        </section>
+      </section>
+
+    <!-- =================================================================================================================== -->
+    <!-- ===== MY SOFTWARE ================================================================================================= -->
+    <!-- =================================================================================================================== -->        
+
+
+    <!-- INSERT EXAMPLES OF THE TOOLS I HAVE DEVELOPED -->
+
+
+    <!-- IPYRAD -->
+
+
+    <!-- TOYTREE -->    
+
+
+    <!-- =================================================================================================================== -->
+    <!-- ===== DEV TIPS ==================================================================================================== -->
+    <!-- =================================================================================================================== -->        
+
+      <section>
+        <div>
+          <h3 class="title">Dev tips 1: design for the style of use</h3>
+          <div class="textbox"><p>
+          Will the user only interact with the program once? (e.g., genome assembly)</p></div>
+          <ul class="bulletbox">
+            <li class="items">Checkpointing to restart if interrupted.</li>
+            <li class="items">Progress bar for indication.</li>
+            <li class="items">Log file of the parameters/settings used.</li>
+            <li class="items">Designed to run in terminal (e.g., on a server).</li>
+          </ul>
+
+          <div class="textbox"><p>
+            Or will they use the program interactively, tweaking options? (e.g., plotting tools)
+          </p></div>
+          <ul class="bulletbox">
+            <li class="items">Fast and responsive.</li>
+            <li class="items">Auto-completion (tab) support (cleaned).</li>
+            <li class="items">Designed to run in interactive env (e.g., jupyter, RStudio).</li>
+          </ul>
+        </div>
+      </section>
+
+
+    <!-- =================================================================================================================== -->
+    <!-- ===== BASH REVIEW ==================================================================================================== -->
+    <!-- =================================================================================================================== -->     
+
+      <section>
+        <section>
+          <div class="standard">
+            <h3 class="title">Example: design difference of ipyrad vs. stacks</h3>
+            <div class="textbox"><p>
+            Genomic assembly software for RAD-seq type data. Two tools took fairly 
+            different design approaches. 
+
+            Stacks follows the design of a unix type program, requiring the
+            user to enter all arguments individually to several atomized sub-programs. 
+            The authors provide bash script templates (e.g., for-loops) to run the 
+            entire workflow, composing many steps. It is easy for a typo or bug in 
+            the script to crash the whole workflow.
+            <br><br>
+            ipyrad is also designed as a command line tool, but takes a single params
+            file as input, in which the user can enter all parameters. ipyrad then 
+            creates the full workflow, managing all files from one atomic 
+            subprogram to the next.
+            </p></div>
+          </div>
+        </section>
+
+        <section>
+          <div class="standard">
+            <div class="textbox"><p>
+            Stacks bash script requires user to enter every sample name <i>by hand</i>! and to write for-loops, and call several tools, to run just part of the workflow.
+            </p></div>
+          </div>
+          <pre style="width:60%"><code data-trim class="language-bash">
+            #!/bin/bash
+
+            src=$HOME/research/project
+
+            files=”sample_01
+            sample_02
+            sample_03”
+
+            #
+            # Build loci de novo in each sample for the single-end reads only. If paired-end reads are available, 
+            # they will be integrated in a later stage (tsv2bam stage).
+            # This loop will run ustacks on each sample, e.g.
+            #   ustacks -f ./samples/sample_01.1.fq.gz -o ./stacks -i 1 --name sample_01 -M 4 -p 8
+            #
+            id=1
+            for sample in $files
+            do
+                ustacks -f $src/samples/${sample}.1.fq.gz -o $src/stacks -i $id --name $sample -M 4 -p 8
+                let "id+=1"
+            done
+
+            # 
+            # Build the catalog of loci available in the metapopulation from the samples contained
+            # in the population map. To build the catalog from a subset of individuals, supply
+            # a separate population map only containing those samples.
+            #
+            cstacks -n 6 -P $src/stacks/ -M $src/popmaps/popmap -p 8
+
+            #
+            # Run sstacks. Match all samples supplied in the population map against the catalog.
+            #
+            sstacks -P $src/stacks/ -M $src/popmaps/popmap -p 8
+
+            #
+            # Run tsv2bam to transpose the data so it is stored by locus, instead of by sample. We will include
+            # paired-end reads using tsv2bam. tsv2bam expects the paired read files to be in the samples
+            # directory and they should be named consistently with the single-end reads,
+            # e.g. sample_01.1.fq.gz and sample_01.2.fq.gz, which is how process_radtags will output them.
+            #
+            tsv2bam -P $src/stacks/ -M $src/popmaps/popmap --pe-reads-dir $src/samples -t 8
+
+            #
+            # Run gstacks: build a paired-end contig from the metapopulation data (if paired-reads provided),
+            # align reads per sample, call variant sites in the population, genotypes in each individual.
+            #
+            gstacks -P $src/stacks/ -M $src/popmaps/popmap -t 8
+
+            #
+            # Run populations. Calculate Hardy-Weinberg deviation, population statistics, f-statistics
+            # export several output files.
+            #
+            populations -P $src/stacks/ -M $src/popmaps/popmap -r 0.65 --vcf --genepop --structure --fstats --hwe -t 8
+          </code></pre>
+        </section>
+
+        <section>
+          <div class="standard">
+            <div class="textbox"><p>
+              By contrast, ipyrad allows users to set all parameters in a single file, to run the entire assembly in one command.
+            </p></div>
+          </div>
+          <pre style="width:60%"><code data-trim class="language-bash">
+            # create a default parameter file
+            ipyrad -n test
+
+            # run all steps of the assembly using setting in params-test.txt
+            ipyrad -p params-test.txt -s 1234567
+          </code></pre>
+          <br>
+          <div class="standard">
+            <div class="textbox"><p>
+              And if the user wants to test different parameter settings, you can
+              create a branched at a checkpoint (1-7) and continue from that
+              point with different parameters.
+            </p></div>                        
+
+          <pre style="width:60%"><code data-trim class="language-bash">
+            # create a default parameter file
+            ipyrad -p params-test.txt -b newparams
+
+            # run all steps of the assembly using setting in params-test.txt
+            ipyrad -p newparams-test.txt -s 67
+          </code></pre>
+
+
+        </section>
+      </section>
+
+
+
+      <section>
+        <section>
+          <div class="standard">
+            <h3 class="title">Bash review</h3>
+          </div>
+        </section>
+        
+        <section>            
+          <div class="standard">
+            <h3 class="title">The hierarchical unix filesystem</h3>
+            <div class="textbox"><p style="text-align: center;">
+              Where are my files? Where am I?
+            </p></div>
+            <!--  -->
+            <pre style="width:60%"><code data-trim class="language-bash">
+              # show my current location
+              pwd
+
+              # show the files in my current location
+              ls
+            </code></pre>                
+            <!--  -->
+            <pre style="width:60%"><code data-trim class="language-bash">
+              # pwd 'prints the working directory' (your location)
+              /home/deren/
+
+              # ls 'lists' the contents in the specifed directory
+              data/    docs/    file.txt
+            </code></pre>                
+          </div>
+        </section>
+
+        <section>
+          <div class="standard">
+            <h3 class="title">program -options target</h3>
+            <pre style="width:60%"><code data-trim class="language-bash">
+              # program target
+              echo "hello world"
+
+              # program -option target
+              ls -l /home/deren/work
+            </code></pre>                
+            <!--  -->
+            <pre style="width:60%"><code data-trim class="language-bash">
+              # echo prints the target string to the terminal output (stdout)
+              hello world
+
+              # ls -l 'lists' contents in the specifed directory
+              drwxr-xr-x  7 deren deren  4096 Dec 28 03:37 data/    
+              drwxr-xr-x  7 deren deren  4096 Dec 28 03:37 docs/    
+              drwxr-xr-x  7 deren deren  4096 Dec 28 03:37 file.txt
+            </code></pre>                
+          </div>
+        </section>
+
+      </section>
+
+
+
+		</div>
+	</div>
+	
+	<script src="../revealjs/dist/reveal.js"></script>
+	<script src="../revealjs/plugin/notes/notes.js"></script>
+	<script src="../revealjs/plugin/highlight/highlight.js"></script>
+	<script src="../revealjs/plugin/markdown/markdown.js"></script>	
+	<script>
+		Reveal.initialize({
+			transition: 'none',
+			hash: true,
+			plugins: [RevealNotes, RevealHighlight, RevealMarkdown],
+			width: 1600,
+			height: 900,
+			minScale: 0.1,
+			maxScale: 5,
+			controls: true,
+			progress: true,
+			loop: false,
+			center: false,
+		});
+	</script>
+</body>
+</html>
