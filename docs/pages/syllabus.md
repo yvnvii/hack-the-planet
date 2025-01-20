@@ -1,19 +1,21 @@
 ---
-layout: default
-title: Syllabus
 image: /assets/images/hackers-5.jpg
 ---
 
-## Syllabus: 
+
+# Syllabus
 - **Title:** Programming and Data Science for Biology (EEEB G4050)
 - **Term:** Spring 2025
 - **Department:** Ecology, Evolution, and Environmental Biology (E3B)
-- **Instructors:** Deren Eaton (de2356@columbia.edu, he/him) & Isaac Overcast (iao2122@columbia.edu, he/him)
+- **Instructors:** 
+	- Deren Eaton ([de2356@columbia.edu](mailto:de2356@columbia.edu), he/him) 
+ 	- Isaac Overcast ([iao2122@columbia.edu](mailto:iao2122@columbia.edu), he/him)
 - **Location:** 329 Uris Hall
 - **Day/Time:** Tu/Th 10:10-11:25am
 - **Course level:** 4000 (graduate but open to advanced undergraduates)
 - **Credits:** 3
-- **Office hours:** TBD by zoom
+- **Office hours:** TBD.
+
 
 **Bulletin**: Programming and Data Science for Biologists (PDSB) will introduce students to fundamental computational skills and concepts for working with large biological data sets. The core learning objectives include general skills like data formatting and using git/github, as well as learning advanced usage of Python for writing and designing new software. Exercises and assignments will introduce students to empirical datasets used in the biological sciences, from genomics to biodiversity. The latter half of the class is organized around individual projects, in which students will design a command-line program and/or API relevant to their research. Computer programs are ubiquitous in biology, but few biologists receive formal training in designing and writing software. This course offers a deeper introduction to computational techniques and algorithms commonly applied to biological datasets.
 

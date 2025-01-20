@@ -1,0 +1,84 @@
+site_name: Hack-the-Planet
+repo_url: https://github.com/eaton-lab/hack-the-planet
+edit_uri: edit/master/docs/
+
+theme: 
+  name: material
+  highlightjs: true
+  palette:
+    scheme: default
+    primary: blue
+    ascent: indigo
+  favicon: /images/favicon.ico
+  icon:
+    logo: material/library
+  features:
+    - navigation.instant     # revisit this if reloading is not great...
+    - navigation.tracking
+    - search.highlight    # - navigation.indexes
+    - search.suggest
+    - content.code.annotate # 
+    - content.code.copy    
+
+extra_javascript:
+
+extra_css:
+  - stylesheets/pages.css
+  # - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/monokai.min.css  
+  # - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/monokai-sublime.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/base16-unikitty-light.min.css  
+
+extra_javascript:
+  # - javascripts/extra.js
+  # - javascripts/mathjax.js
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js  
+  # - https://polyfill.io/v3/polyfill.min.js?features=es6
+  # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js  
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - tables
+  - md_in_html
+  - pymdownx.details  
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg      
+  # - pymdownx.highlight:
+  #     use_pygments: true
+  #     pygments_lang_class: true
+
+nav: 
+  - About: pages/index.md
+  - Syllabus: pages/syllabus.md
+  - Schedule: pages/schedule.md
+  - Sessions: 
+    - Session 1: pages/session-1.md
+    - Session 2: pages/session-2.md
+    - Session 3: pages/session-3.md
+    - Session 4: pages/session-4.md
+  - Tutorials:
+    - 2.0 -- GitHub: tutorials/2.0-Github
+    - 2.1 -- File Paths: tutorials/2.1-paths
+    - 2.2 -- Bash variables: tutorials/2.2-bash
+    - 3.0 -- Markdown: tutorials/4.0-markdown
+    - 3.1 -- Coding Editors: tutorials/4.1-code-editors
+    - 3.2 -- git init: tutorials/4.2-git
+    - 3.3 -- GitHub pages: tutorials/4.3-GitHub-pages
+    - 4.0 -- conda: tutorials/5.0-conda
+    - 4.1 -- jupyter: tutorials/5.1-jupyter
+    - 4.2 -- GitHub fork: tutorials/5.2-forking
+    - 5.0 -- GitHub pages2: tutorials/5.x-github-pages-advanced
+    - 5.1 -- git advanced: ...
+    - 5.2 -- python: ...
+  - Resources: resources.md
+  - External Links: links.md
