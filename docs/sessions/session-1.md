@@ -26,7 +26,7 @@ By the end of this session you will be more familiar with the following topics:
 ## :material-human-male-board-poll: In class exercises
 - Introduce the course website (**bookmark this!**): [https://eaton-lab.org/hack-the-planet](https://eaton-lab.org/hack-the-planet)
 - Connect, login, and complete notebook 1 on the course server: [https://pinky.eaton-lab.org](https://pinky.eaton-lab.org)
-- Link to [Lecture 1 slides](../lectures/1.0/): Introduction to bash
+- Link to [Lecture 1 slides](lectures/1.0/): Introduction to bash
 
 
 ## :material-list-box-outline: Assignments
