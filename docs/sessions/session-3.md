@@ -8,7 +8,7 @@ day: Tu
 
 
 <figure markdown="span">
-  ![hackers-1](/assets/images/hackers-panel.png)
+  ![hackers-1](../assets/images/hackers-panel.png)
 </figure>
 
 ## :material-book-variant: Learning objectives
@@ -32,3 +32,10 @@ By the end of this session you will be more familiar with the following topics:
 - [Tutorial 3.2: Creating a Github pages](/tutorials/3.2-github-pages)
 - [Tutorial 3.3: Coding editor](/tutorials/3.3-coding-editor)
 
+
+---------------------
+
+
+<figure markdown="span">
+  ![hackers-1](../assets/images/hackers-4.jpg){width="800"}
+</figure>

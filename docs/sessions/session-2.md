@@ -6,7 +6,7 @@ day: Th
 ---
 
 <figure markdown="span">
-  ![hackers-1](/assets/images/hackers-panel.png)
+  ![hackers-1](../assets/images/hackers-panel.png)
 </figure>
 
 ## :material-book-variant: Learning objectives
@@ -38,5 +38,5 @@ By the end of this session you will be more familiar with the following topics:
 --------------------------------
 
 <figure markdown="span">
-  ![hackers-1](/assets/images/hackers-5.jpg){width="800"}
+  ![hackers-1](../assets/images/hackers-5.jpg){width="800"}
 </figure>

@@ -38,6 +38,6 @@ By the end of this session you will be more familiar with the following topics:
 -----------------------------------------------------
 
 <figure markdown="span">
-  ![hackers-1](/assets/images/hackers-1.jpg)
+  ![hackers-1](../assets/images/hackers-1.jpg)
 </figure>
 
