@@ -7,7 +7,7 @@ day: Tu
 
 
 <figure markdown="span">
-  ![hackers-1](/assets/images/hackers-panel.png)
+  ![hackers-1](assets/images/hackers-panel.png)
 </figure>
 
 ## :material-book-variant: Learning objectives
