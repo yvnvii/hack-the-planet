@@ -63,7 +63,7 @@ markdown_extensions:
   #     pygments_lang_class: true
 
 nav: 
-  - About: /pages/index.md
+  - About: pages/index.md
   - Syllabus: pages/syllabus.md
   - Schedule: pages/schedule.md
   - Sessions: 
