@@ -55,9 +55,9 @@ While AI can be a powerful resource, it is not infallible. These tools can
 occasionally produce incorrect or misleading information, and relying on them
 exclusively may hinder your ability to critically evaluate data, methods, and
 results. Therefore, you are expected to:
-* Verify Information: Cross-check AI-generated outputs against authoritative sources or class materials.
-* Develop Independent Skills: Engage with the concepts and tools independently to ensure you can identify when AI outputs are inaccurate or suboptimal.
-* Take Responsibility: Ultimately, you are accountable for the content and quality of your work, regardless of whether it was AI-assisted.
+- Verify Information: Cross-check AI-generated outputs against authoritative sources or class materials.
+- Develop Independent Skills: Engage with the concepts and tools independently to ensure you can identify when AI outputs are inaccurate or suboptimal.
+- Take Responsibility: Ultimately, you are accountable for the content and quality of your work, regardless of whether it was AI-assisted.
 
 By using AI judiciously and critically, you will enhance your ability to
 evaluate the reliability of data and tools, which is a vital skill in data
