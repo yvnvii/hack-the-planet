@@ -1,4 +1,5 @@
 site_name: Hack-the-Planet
+site_url: https://eaton-lab.org/hack-the-planet
 repo_url: https://github.com/eaton-lab/hack-the-planet
 edit_uri: edit/master/docs/
 
@@ -62,7 +63,7 @@ markdown_extensions:
   #     pygments_lang_class: true
 
 nav: 
-  - About: pages/index.md
+  - About: /pages/index.md
   - Syllabus: pages/syllabus.md
   - Schedule: pages/schedule.md
   - Sessions: 
