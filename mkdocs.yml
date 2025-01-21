@@ -63,12 +63,12 @@ markdown_extensions:
   #     pygments_lang_class: true
 
 nav: 
-  - About: index.md
-  - Syllabus: pages/syllabus.md
-  - Schedule: pages/schedule.md
+  - About: index
+  - Syllabus: pages/syllabus
+  - Schedule: pages/schedule
   - Sessions: 
-    - Session 1: sessions/session-1.md
-    - Session 2: sessions/session-2.md
+    - Session 1: sessions/session-1
+    - Session 2: sessions/session-2
     # - Session 3: sessions/session-3.md
     # - Session 4: sessions/session-4.md
   - Tutorials:
