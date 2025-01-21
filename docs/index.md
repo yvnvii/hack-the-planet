@@ -42,7 +42,7 @@ for the greater good. Borrowing another fun phrase from the film, our goal
 is that the programs we develop will not "crash-and-burn". 
 
 <figure markdown="span">
-  ![hackers-1](../assets/images/hackers-4a.jpg){ width="800" }
+  ![hackers-1](./assets/images/hackers-4a.jpg){ width="800" }
   <!-- <figcaption>Image caption</figcaption> -->
 </figure>
 
@@ -63,7 +63,7 @@ ideas. It should be fun. Drop in and say 'hello world' to the course
 and ask any coding questions you might have.
 
 <figure markdown="span">
-  ![hackers-1](../assets/images/hackers-6.jpg)
+  ![hackers-1](./assets/images/hackers-6.jpg)
 </figure>
 
 
@@ -79,7 +79,7 @@ a useful new tool around this type of data.
 
 
 <figure markdown="span">
-  ![hackers-1](../assets/images/hack-the-planet.gif){ width="800" }
+  ![hackers-1](./assets/images/hack-the-planet.gif){ width="800" }
   <!-- <figcaption>Image caption</figcaption> -->
 </figure>
 
