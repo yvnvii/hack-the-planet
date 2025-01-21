@@ -3,7 +3,7 @@ site_url: https://eaton-lab.org/hack-the-planet
 repo_url: https://github.com/eaton-lab/hack-the-planet
 edit_uri: edit/master/docs/
 
-theme: 
+theme:
   name: material
   highlightjs: true
   palette:
@@ -12,7 +12,7 @@ theme:
     ascent: indigo
   favicon: /images/favicon.ico
   icon:
-    logo: material/library
+    logo: material/hexagon-multiple-outline
   features:
     - navigation.instant     # revisit this if reloading is not great...
     - navigation.tracking
