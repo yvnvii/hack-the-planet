@@ -22,7 +22,7 @@ By the end of this session you will be more familiar with the following topics:
 
 ## :material-human-male-board-poll: In class exercises
 
-- Link to [class 1 poll results]
+- Link to [Class 1 Prior Experience Poll Results](https://docs.google.com/spreadsheets/d/1CB1AvZ8At-e9BMxaFd7hp4icvFcnydVV5uQJYrH1NBY/edit?usp=sharing)
 - Link to [Lecture 2.0: Program design, bash, GitHub](../../lectures/2.0).
 <!-- - Link to [Lecture 2.1: bash advanced, GitHub](/lectures/2.) -->
 
