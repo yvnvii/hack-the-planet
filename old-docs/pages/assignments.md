@@ -282,6 +282,8 @@ image: /assets/images/hackers-1.jpg
 					<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook chapter 4</a></li>
 					<li><a href="../tutorials/project-planning-1.html">Project planning 1</a></li>
 					<li><a href="../tutorials/project-planning-2.html">Project planning 2</a></li>
+                    <li>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265</li>
+                    <li>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506</li>
 				</ul>
 			</li>
 		</ul>
