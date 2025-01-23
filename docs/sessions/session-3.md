@@ -26,9 +26,9 @@ By the end of this session you will be more familiar with the following topics:
 
 
 ## :material-list-box-outline: Assignments
-- [Tutorial 3.0: Markdown revisited](../tutorials/3.0-markdown)
-- [Tutorial 3.1: Introduction to git](../tutorials/3.1-learning-git)
-- [Tutorial 3.2: Creating a Github pages](../tutorials/3.2-github-pages)
+- [Tutorial 3.0: Markdown revisited](../../tutorials/3.0-markdown)
+- [Tutorial 3.1: Introduction to git](../../tutorials/3.1-learning-git)
+- [Tutorial 3.2: Creating a Github pages](../../tutorials/3.2-github-pages)
 
 ---------------------
 
