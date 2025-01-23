@@ -30,7 +30,6 @@ By the end of this session you will be more familiar with the following topics:
 - Tutorial 2.1: [The terminal/shell, bash variables, PATH](../../tutorials/2.1-shell)
 - Tutorial 2.2: [Bash assessment/challenge](../../tutorials/2.2-bash/)
 - Read: ["Ten Simple Rules for Developing Usable Software in Computational Biology"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
-- Read: ["Ten Simple Rules for Effective Computational Research"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)
 
 --------------------------------
 
