@@ -1,10 +1,9 @@
 ---
-title: Session 3
-topic: git and GitHub
-date: 2025-01-28
-day: Tu
+title: Session 4
+topic: conda, jupyter, Python intro
+date: 2025-01-30
+day: Th
 ---
-
 
 
 <figure markdown="span">
@@ -25,14 +24,14 @@ By the end of this session you will be more familiar with the following topics:
 - Presentations of student GitHub Pages
 - Interactive review of assignments
 - Troubleshooting `git`
-- <li><a href="../lectures/5.0/">Lecture 5.0</a>: Python intro.</li>
+- Link to [Lecture 3 slides](../../lectures/4.0/): Introducing git, GitHub, and GitHub pages.
 
 
 ## :material-list-box-outline: Assignments
-- []"../tutorials/5.0-conda.html">Tutorial 5.0</a>: conda.</li>
-- []"../tutorials/5.1-jupyter.html">Tutorial 5.1</a>: jupyter</li>
-- []"https://docs.python.org/3/tutorial/">Read</a>: Python tutorial chapters 1 and 3</li>
-- []"../tutorials/5.2-forking.html">Tutorial 5.2</a>: GitHub forking and Python assessment</li>
+- [Tutorial 4.0: conda installer](../../tutorials/4.0-conda)
+- [Tutorial 4.1: jupyter notebook](../../tutorials/4.1-jupyter)
+- [Python tutorial chapters 1 and 3](https://docs.python.org/3/tutorial/)
+- [Tutorial xxx: GitHub forking and Python assessment](../../tutorials/4.2-forking)
 
 ---------------------
 
