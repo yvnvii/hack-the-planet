@@ -87,13 +87,13 @@ nav:
     - 3.0 -- Markdown: tutorials/3.0-markdown
     - 3.1 -- git init: tutorials/3.1-learning-git
     - 3.2 -- GitHub pages: tutorials/3.2-github-pages
-    # - 3.3 -- Coding Editors: tutorials/3.3-code-editors
-    # - 4.0 -- conda: tutorials/5.0-conda
-    # - 4.1 -- jupyter: tutorials/5.1-jupyter
-    # - 4.2 -- GitHub fork: tutorials/5.2-forking
+    # - 4.0 -- conda: tutorials/4.0-conda
+    # - 4.1 -- jupyter: tutorials/4.1-jupyter
+    # - 4.2 -- GitHub fork: tutorials/4.2-forking
+    # - 5.2 -- python: ...
+    # - x.x -- Coding Editors: tutorials/3.3-code-editors
     # - 5.0 -- GitHub pages2: tutorials/5.x-github-pages-advanced
     # - 5.1 -- git advanced: ...
-    # - 5.2 -- python: ...
   - Resources: 
     - project presentations: pages/presentations
     - project submissions: pages/project-submit
