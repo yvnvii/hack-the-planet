@@ -76,10 +76,10 @@ nav:
   - Syllabus: pages/syllabus
   - Schedule: pages/schedule
   - Sessions: 
-    - Session 1: sessions/session-1
-    - Session 2: sessions/session-2
-    - Session 3: sessions/session-3.md
-    # - Session 4: sessions/session-4.md
+    - Session 1 - (1/21): sessions/session-1
+    - Session 2 - (1/23): sessions/session-2
+    - Session 3 - (1/28): sessions/session-3
+    # - Session 4 (1/30): sessions/session-4.md
   - Tutorials:
     - 2.0 -- GitHub: tutorials/2.0-github
     - 2.1 -- Shell: tutorials/2.1-shell
