@@ -7,9 +7,18 @@ theme:
   name: material
   highlightjs: true
   palette:
-    scheme: default
-    primary: blue
-    ascent: indigo
+    - scheme: default
+      primary: blue
+      ascent: indigo
+      toggle: 
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      ascent: indigo
+      toggle: 
+        icon: material/lightbulb
+        name: Switch to lightmode
   favicon: /images/favicon.ico
   icon:
     logo: material/hexagon-multiple-outline
@@ -69,15 +78,15 @@ nav:
   - Sessions: 
     - Session 1: sessions/session-1
     - Session 2: sessions/session-2
-    # - Session 3: sessions/session-3.md
+    - Session 3: sessions/session-3.md
     # - Session 4: sessions/session-4.md
   - Tutorials:
     - 2.0 -- GitHub: tutorials/2.0-github
     - 2.1 -- Shell: tutorials/2.1-shell
     - 2.2 -- Shell challenge: tutorials/2.2-bash
-    # - 3.0 -- Markdown: tutorials/3.0-markdown
-    # - 3.1 -- git init: tutorials/3.1-learning-git
-    # - 3.2 -- GitHub pages: tutorials/3.2-github-pages
+    - 3.0 -- Markdown: tutorials/3.0-markdown
+    - 3.1 -- git init: tutorials/3.1-learning-git
+    - 3.2 -- GitHub pages: tutorials/3.2-github-pages
     # - 3.3 -- Coding Editors: tutorials/3.3-code-editors
     # - 4.0 -- conda: tutorials/5.0-conda
     # - 4.1 -- jupyter: tutorials/5.1-jupyter

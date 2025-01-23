@@ -54,6 +54,23 @@
   font-style: italic;
 }
 
+.reveal .slides .standard-textbox-image {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  align-items: top;
+/*  gap: 10px;*/
+/*  margin: 10px 0;*/
+}
+
+.reveal .slides .standard-textbox-image .image {
+  max-width: 35%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
 /*********************************************
  * HEADERS
  *********************************************/
