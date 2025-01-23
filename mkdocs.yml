@@ -72,7 +72,7 @@ markdown_extensions:
   #     pygments_lang_class: true
 
 nav: 
-  - About: index
+  - About: index.md
   - Syllabus: pages/syllabus
   - Schedule: pages/schedule
   - Sessions: 
@@ -81,15 +81,18 @@ nav:
     - Session 3 - (1/28): sessions/session-3
     # - Session 4 (1/30): sessions/session-4.md
   - Tutorials:
-    - 2.0 -- GitHub: tutorials/2.0-github
-    - 2.1 -- Shell: tutorials/2.1-shell
-    - 2.2 -- Shell challenge: tutorials/2.2-bash
-    - 3.0 -- Markdown: tutorials/3.0-markdown
-    - 3.1 -- git init: tutorials/3.1-learning-git
-    - 3.2 -- GitHub pages: tutorials/3.2-github-pages
-    # - 4.0 -- conda: tutorials/4.0-conda
-    # - 4.1 -- jupyter: tutorials/4.1-jupyter
-    # - 4.2 -- GitHub fork: tutorials/4.2-forking
+    - Session 2 - (1/23):
+        - 2.0 -- GitHub: tutorials/2.0-github
+        - 2.1 -- Shell: tutorials/2.1-shell
+        - 2.2 -- Shell challenge: tutorials/2.2-bash
+    - Session 3 - (1/28):
+        - 3.0 -- Markdown: tutorials/3.0-markdown
+        - 3.1 -- git init: tutorials/3.1-learning-git
+        - 3.2 -- GitHub pages: tutorials/3.2-github-pages
+    # - Session 4 - (1/30):
+        # - 4.0 -- conda: tutorials/4.0-conda
+        # - 4.1 -- jupyter: tutorials/4.1-jupyter
+        # - 4.2 -- GitHub fork: tutorials/4.2-forking
     # - 5.2 -- python: ...
     # - x.x -- Coding Editors: tutorials/3.3-code-editors
     # - 5.0 -- GitHub pages2: tutorials/5.x-github-pages-advanced
