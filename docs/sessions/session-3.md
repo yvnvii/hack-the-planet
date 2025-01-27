@@ -18,14 +18,13 @@ to it in a text editor, and use this to develop a webpage hosted on GitHub.
 By the end of this session you will be more familiar with the following topics:
 
 ## :material-list-box-outline: Review homework
-- Any questions about the assignments?
+- Log in to the [gitter channel](https://app.gitter.im/#/room/#hack-the-planet-course_community:gitter.im) using your github account and post a message
+- Review of bash challenge assignment
+- Review of bash variables, including PATH
+- Review of GitHub basics
 - Discuss ["Ten Simple Rules for Developing Usable Software in Computational Biology"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
 
 ## :material-human-male-board-poll: In class exercises
-- Log in to the [gitter channel](https://app.gitter.im/#/room/#hack-the-planet-course_community:gitter.im) using your github account and post a message
-- Review of GitHub basics
-- Review of bash variables, including PATH
-- Review of bash challenge assignment
 - Link to [Lecture 3 slides](../../lectures/3.0/): Introducing git, GitHub, and GitHub pages.
 
 
