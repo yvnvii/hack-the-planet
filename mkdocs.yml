@@ -86,9 +86,9 @@ nav:
         - 2.1 -- Shell: tutorials/2.1-shell
         - 2.2 -- Shell challenge: tutorials/2.2-bash
     - Session 3 - (1/28):
-        - 3.0 -- Markdown: tutorials/3.0-markdown
-        - 3.1 -- git init: tutorials/3.1-learning-git
-        - 3.2 -- GitHub pages: tutorials/3.2-github-pages
+        - 3.1 -- Markdown: tutorials/3.1-markdown
+        - 3.2 -- git branching: tutorials/3.2-git-branching
+        - 3.3 -- GitHub pages: tutorials/3.3-github-pages
     # - Session 4 - (1/30):
         # - 4.0 -- conda: tutorials/4.0-conda
         # - 4.1 -- jupyter: tutorials/4.1-jupyter

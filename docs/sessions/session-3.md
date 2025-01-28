@@ -25,13 +25,14 @@ By the end of this session you will be more familiar with the following topics:
 - Discuss ["Ten Simple Rules for Developing Usable Software in Computational Biology"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
 
 ## :material-human-male-board-poll: In class exercises
-- Link to [Lecture 3 slides](../../lectures/3.0/): Introducing git, GitHub, and GitHub pages.
+- Link to [In-class git init exercise](../../tutorials/3.0-git-init): Working with local
+github repositories
 
 
 ## :material-list-box-outline: Assignments
-- [Tutorial 3.0: Markdown revisited](../../tutorials/3.0-markdown)
-- [Tutorial 3.1: Introduction to git](../../tutorials/3.1-learning-git)
-- [Tutorial 3.2: Creating a Github pages](../../tutorials/3.2-github-pages)
+- [Tutorial 3.1: Markdown revisited](../../tutorials/3.1-markdown)
+- [Tutorial 3.2: Introduction to git branching](../../tutorials/3.2-git-branching)
+- [Tutorial 3.3: Creating a Github pages](../../tutorials/3.3-github-pages)
 - Read: ["Ten Simple Rules for Effective Computational Research"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003506)
 
 ---------------------
