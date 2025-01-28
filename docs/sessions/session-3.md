@@ -19,7 +19,7 @@ By the end of this session you will be more familiar with the following topics:
 
 ## :material-list-box-outline: Review homework
 - Log in to the [gitter channel](https://app.gitter.im/#/room/#hack-the-planet-course_community:gitter.im) using your github account and post a message
-- Review of bash challenge assignment
+- Review of [bash challenge assignment](https://github.com/isaacovercast/hack-2-shell/blob/main/assignment-2.2.md)
 - Discuss ["Ten Simple Rules for Developing Usable Software in Computational Biology"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)
 
 ## :material-human-male-board-poll: In class exercises
