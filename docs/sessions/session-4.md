@@ -40,3 +40,6 @@ By the end of this session you will be more familiar with the following topics:
   ![hackers-1](../assets/images/hackers-3.webp){width="800"}
 </figure>
 
+<!-- Notes
+* Show the github 'Preview' tab
+-->

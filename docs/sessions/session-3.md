@@ -11,13 +11,18 @@ day: Tu
   ![hackers-1](../assets/images/hackers-panel.png)
 </figure>
 
+## Icebreaker question
+* [What bird are you most like](https://www.riddle.com/view/240244?qzzr=1) and why?
+
 ## :material-book-variant: Learning objectives
 In this session we will learn about `git` and GitHub for version control and 
 collaborative coding. You will clone your first git repository, make edits
 to it in a text editor, and use this to develop a webpage hosted on GitHub.
 By the end of this session you will be more familiar with the following topics:
+- Github as a version control system
+- Cloning repositories, and  adding, commiting, and pushing files
 
-## :material-list-box-outline: Review homework
+## :material-list-box-outline: Review & Discussion
 - Log in to the [gitter channel](https://app.gitter.im/#/room/#hack-the-planet-course_community:gitter.im) using your github account and post a message
 - Review of [bash challenge assignment](https://github.com/isaacovercast/hack-2-shell/blob/main/assignment-2.2.md)
 - Discuss ["Ten Simple Rules for Developing Usable Software in Computational Biology"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265)

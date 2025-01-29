@@ -79,7 +79,7 @@ nav:
     - Session 1 - (1/21): sessions/session-1
     - Session 2 - (1/23): sessions/session-2
     - Session 3 - (1/28): sessions/session-3
-    # - Session 4 (1/30): sessions/session-4.md
+    - Session 4 - (1/30): sessions/session-4.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github
@@ -89,10 +89,10 @@ nav:
         - 3.1 -- Markdown: tutorials/3.1-markdown
         - 3.2 -- git branching: tutorials/3.2-git-branching
         - 3.3 -- GitHub pages: tutorials/3.3-github-pages
-    # - Session 4 - (1/30):
-        # - 4.0 -- conda: tutorials/4.0-conda
-        # - 4.1 -- jupyter: tutorials/4.1-jupyter
-        # - 4.2 -- GitHub fork: tutorials/4.2-forking
+    - Session 4 - (1/30):
+        - 4.0 -- conda: tutorials/4.0-conda
+        - 4.1 -- jupyter: tutorials/4.1-jupyter
+        - 4.2 -- GitHub fork: tutorials/4.2-forking
     # - 5.2 -- python: ...
     # - x.x -- Coding Editors: tutorials/3.3-code-editors
     # - 5.0 -- GitHub pages2: tutorials/5.x-github-pages-advanced
