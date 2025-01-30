@@ -11,27 +11,27 @@ day: Th
 </figure>
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about `git` and GitHub for version control and 
-collaborative coding, and the benefits of using a coding editor.
+In this session we will learn about using conda for package management and 
+we will introduce python as a powerful language for scientific computing.
 By the end of this session you will be more familiar with the following topics:
 
-- Writing formatted documents with Markdown.
-- Using `git` repos: clone, add, commit, push.
-- Using `git` and Markdown to create a website.
+- Installing conda and managing conda environments for installing software
+- Launching jupyter notebooks on your local system
+- The python programming language for scientific computing
 
+
+## :material-list-box-outline: Review and Discussion
+- Presentations of student GitHub Pages
+- Troubleshooting `git`
+- Link to [Lecture 4 slides](../../lectures/4.0/): Introducing conda for package management, and the python programming language
 
 ## :material-human-male-board-poll: In class exercises
-- Presentations of student GitHub Pages
-- Interactive review of assignments
-- Troubleshooting `git`
-- Link to [Lecture 3 slides](../../lectures/4.0/): Introducing git, GitHub, and GitHub pages.
-
-
-## :material-list-box-outline: Assignments
 - [Tutorial 4.0: conda installer](../../tutorials/4.0-conda)
 - [Tutorial 4.1: jupyter notebook](../../tutorials/4.1-jupyter)
+
+## :material-list-box-outline: Assignments
 - [Python tutorial chapters 1 and 3](https://docs.python.org/3/tutorial/)
-- [Tutorial xxx: GitHub forking and Python assessment](../../tutorials/4.2-forking)
+- [Tutorial 4.2: GitHub forking and Python assessment](../../tutorials/4.2-forking)
 
 ---------------------
 
