@@ -43,17 +43,67 @@
 
 <!-- Troubleshooting git -->
       <section>
+        <section>
         <div class="standard">
           <h3 class="title">Troubleshooting git</h3>
           <div class="textbox"><p>
-            In the strict sense, it is writing a logical sequence of instructions
-            that can be interpreted by a computer to perform a desired task.
-            <br><br>
-            More broadly, however, successful scientific programming involves a
-            larger set of tasks, including:
-            (1) envisioning a useful end product;
-          </p></div>
+            Version control systems (particularly git) are useful for managing
+            development of a codebase that is shared across multiple local repositories.
+            Examples of when this could be useful are if you are working on a large
+            project with multiple co-developers, each with your own copy of the code,
+            and each responsible for updating specific parts of it.
+            </br>
+            It's simplest to think of the remote copy of the repository on GitHub as the
+            'authoritative' copy (but this isn't true in a strict sense).
+            </p>
+            </div>
+
+          <img src="GitWorkflow.png" style="width:30%">
         </div>
+        </section>
+        <section>
+        <div class="standard">
+          <h3 class="title">Troubleshooting git</h3>
+          <div class="textbox"><p>
+            If you and a partner are working on a repository that shares a 'remote'
+            the git workflow ensures that there are not conflicts introduced in the
+            codebase. If you change something and 'push', your partner needs to 'pull'
+            and merge any changes (fixing any conflicts) before they can push their own changes.
+
+            </p>
+            </div>
+          <img src="MergeConflict.png" style="width:30%">
+        </div>
+        </section>
+
+
+        <section>
+        <div class="standard">
+          <h3 class="title">Troubleshooting git</h3>
+          <div class="textbox"><p>
+            In practice, if you have a local repository and you are also modifying files
+            on Github.com through the UI, then you are essentially 'collaborating with yourself',
+            modifying two different copies of the code (local and remote), with the potential
+            to introduce merge conflicts.
+          <pre style="width:70%"><code class="bash" style="max-height: 650px; font-size: 18px; line-height:1.35;">
+To https://github.com/iao2122/hack-2-shell.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/iao2122/hack-2-shell.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+          </code></pre>
+              <div class="textbox"><p color:white>
+                The simplest thing to do here is to just do what the `hint` says and 
+                `git pull` before doing the push from local. You can also 'stash' local changes,
+                but this is a topic for another time.
+              </div>
+        </div>
+        </div>
+        </section>
+
       </section>
 
 <!-- Conda package management -->
@@ -63,7 +113,7 @@
               <h3 class="title" style="color:#5ab4ac; margin-top:5%; line-height:1.2">
               conda software manager</h3>
               <div class="textbox"><p style='text-align:center; color:white'>
-                  In your assignment this week you will learn to instal and use the
+                  In your assignment this week you will learn to install and use the
                   conda software package manager. This is a popular and powerful tool
                   for scientific programming. It allows you to automate the process of
                   finding and installing software, and dealing with dependencies.
@@ -87,12 +137,44 @@ conda install samtools -c bioconda
       <section data-background-color="#262626" data-transition="none" class="future">
           <div class="standard">
               <h3 class="title" style="color:#5ab4ac; margin-top:5%; line-height:1.2">
-              Installing local software</h3>
-              <div class="textbox"><p style='text-align:center; color:white'>
-                  In your assignment this week we will also explore how conda works.
-                  Where does it install software, why does it use this location,
-                  how do we add or remove this location from our PATH?
+              Why do we need conda? What is the problem it's solving?</h3>
+              <div class="textbox"><p style='color:white'>
+                Prior to conda there were many alternative ways to install software
+                packages (and dependencies), which installed files and programs in different
+                places. This would usually result in a "hairball" of conflicts among installed
+                software, leading to things breaking and being a huge mess to clean up.
               </p></div>
+
+          <img src="PythonPathMayhem.png" style="width:30%">
+
+        </div>
+        </section>
+
+      <section data-background-color="#262626" data-transition="none" class="future">
+          <div class="standard">
+              <h3 class="title" style="color:#5ab4ac; margin-top:5%; line-height:1.2">
+              Conda uses 'environments' to tame this hairball</h3>
+              <div class="textbox"><p style='color:white'>
+                Conda solves this problem by allowing you to create and manage 'environments'
+                for installing software and dependencies. Environments are isolated from one
+                another, so if something breaks in one environment it doesn't break your
+                whole system, and it can be easily cleaned up by simply removing the broken
+                environment.
+              </p></div>
+
+          <img src="CondaEnvs.png" style="width:50%">
+
+        </div>
+        </section>
+
+      <section data-background-color="#262626" data-transition="none" class="future">
+          <div class="standard">
+              <h3 class="title" style="color:#5ab4ac; margin-top:5%; line-height:1.2">
+              How does the conda magic work?</h3>
+              <div class="textbox"><p style='text-align:center; color:white'>
+                  In your assignment this week we will see in more detail how conda works
+                  We'll learn where it installs software, why it uses this location, and 
+                  how it manipulates your PATH to make the magic of environments seamless.
           <pre style="width:60%"><code class="bash" style="max-height: 650px; font-size: 18px; line-height:1.35;">
 # show the PATH variable
 echo $PATH
@@ -189,19 +271,13 @@ A STRING OF TEXT
                   of object are *attached* to that object. This makes it easy to find
                   all of the available options given some object, and ensures you call
                   the right type of function on the right type of object.
-                  <br><br>
+                  <br>
                   Coding development tools like jupyter or a good coding editor like vscode
                   makes it easier to write Python code by taking advantage of this design.
                   When writing Python code you can use tab-completion to see all options
                   from your current object.
               </p></div>
-          <pre style="width:60%"><code class="bash" style="max-height: 650px; font-size: 18px; line-height:1.35;">
-# create a string variable called x
-x = "a string of text"
-
-# press tab to see options
-x.[press tab]
-          </code></pre>
+          <img src="TabCompletion.png" style="width:30%">
           </div>
       </section>
 
@@ -212,7 +288,7 @@ x.[press tab]
               <div class="textbox"><p style='text-align:center; color:white'>
                   This week you will learn about strings, numbers, and lists.
                   These are some of the basic type object types in Python. You also
-                  have a short reading to introduce these topics. By the end of the
+                  have a short reading to introduce these topics. By the end of next
                   week we will learn all of the additional basic types, including
                   dictionaries, sets, and tuples.
               </p></div>

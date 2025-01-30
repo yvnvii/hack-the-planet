@@ -10,6 +10,9 @@ day: Th
   ![hackers-1](../assets/images/hackers-panel.png)
 </figure>
 
+## Icebreaker question
+* How many phone numbers do you know by heart?
+
 ## :material-book-variant: Learning objectives
 In this session we will learn about using conda for package management and 
 we will introduce python as a powerful language for scientific computing.
