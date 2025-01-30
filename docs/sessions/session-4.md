@@ -11,7 +11,7 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* How many phone numbers do you know by heart?
+* What is one thing you wish you understood but don't?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about using conda for package management and 
@@ -33,6 +33,7 @@ By the end of this session you will be more familiar with the following topics:
 - [Tutorial 4.1: jupyter notebook](../../tutorials/4.1-jupyter)
 
 ## :material-list-box-outline: Assignments
+- Start thinking about a problem you might be interested in developing a tool to solve. Specifically think about what will be the data available (input) and what you want as the answer (output). We will start discussing project ideas next week (in a very preliminary way).
 - [Python tutorial chapters 1 and 3](https://docs.python.org/3/tutorial/)
 - [Tutorial 4.2: GitHub forking and Python assessment](../../tutorials/4.2-forking)
 
