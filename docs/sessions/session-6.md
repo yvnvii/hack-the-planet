@@ -35,7 +35,7 @@ following topics:
     - [Chapter 4 (up to and including 4.9.3) on conditionals and functions](https://docs.python.org/3.13/tutorial/controlflow.html)
     - [Chapter 5 (from 5.5 to the end) on Dictionaries](https://docs.python.org/3.13/tutorial/datastructures.html#dictionaries)
 
-- Tutorials covering [python dictionaries, conditionals, and functions](../../tutorials/6.0-python-advanced)
+- Problem sets covering [python dictionaries, conditionals, and functions](../tutorials/6.0-python-part2.md)
 
 ---------------------
 

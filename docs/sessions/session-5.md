@@ -39,11 +39,11 @@ session you will be more familiar with the following topics:
 
 ## :material-human-male-board-poll: In class exercises
 - Create an account on [genepy.org](https://genepy.org/)
-- Work through the first 9 exercises exercises (from 'Hello World' to 'Import')
+- Work through the first 9 genepy exercises (from 'Hello World' to 'Import')
 
 ## :material-list-box-outline: Assignments
 - [Python tutorial chapters 1 and 3](https://docs.python.org/3/tutorial/)
-- **TODO: Hw for this day**
+- Problem sets for more practice on [python variables, lists, and for loops](../tutorials/5.0-python-part1.md)
 
 ---------------------
 
