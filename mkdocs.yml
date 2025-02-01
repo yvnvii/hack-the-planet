@@ -80,6 +80,10 @@ nav:
     - Session 2 - (1/23): sessions/session-2
     - Session 3 - (1/28): sessions/session-3
     - Session 4 - (1/30): sessions/session-4.md
+    - Session 5 - (2/4): sessions/session-5.md
+    # - Session 6 - (2/6): sessions/session-6.md
+    # - Session 7 - (2/11): sessions/session-7.md
+    # - Session 8 - (2/13): sessions/session-8.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github
@@ -93,10 +97,15 @@ nav:
         - 4.0 -- conda: tutorials/4.0-conda
         - 4.1 -- jupyter: tutorials/4.1-jupyter
         - 4.2 -- GitHub fork: tutorials/4.2-forking
-    # - 5.2 -- python: ...
-    # - x.x -- Coding Editors: tutorials/3.3-code-editors
-    # - 5.0 -- GitHub pages2: tutorials/5.x-github-pages-advanced
-    # - 5.1 -- git advanced: ...
+    - Session 5 - (2/4):
+        - 5.0 -- Coding Editors: tutorials/5.0-coding-editors
+    # - Session 6 - (2/6):
+    #     - 6.0 -- Python (dict, if/else, functions): tutorials/6.0-python-part2
+    # - Session 7 - (2/11):
+    #     - pass
+    # - Session 8 - (2/13):
+    #     - pass
+
   - Resources: 
     - project presentations: pages/presentations
     - project submissions: pages/project-submit

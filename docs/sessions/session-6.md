@@ -25,11 +25,10 @@ following topics:
 
 ## :material-list-box-outline: Review and Discussion
 - Review homework assignments
-- **TODO**: Link to [Lecture 4 slides](../../lectures/4.0/): Introducing conda for package management, and the python programming language
+- **TODO**: Link to [Lecture 6 slides](../../lectures/6.0/): Python dictionaries, conditional statements (if/else), and intro to function definitions
 
 ## :material-human-male-board-poll: In class exercises
-- wat
-- do
+- Work through the next 8 [genepy exercises](https://www.hackinscience.org/exercises/) (from 'Comparisons' to 'Temperatures')
 
 ## :material-list-box-outline: Assignments
 - Python tutorial readings:
