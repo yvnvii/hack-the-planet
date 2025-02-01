@@ -1,7 +1,7 @@
 ---
-title: Session 4
-topic: conda, jupyter, Python intro
-date: 2025-01-30
+title: Session 6
+topic: Dictionaries, if/else, functions
+date: 2025-02-06
 day: Th
 ---
 
@@ -11,31 +11,32 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* What is one thing you wish you understood but don't?
+* **TODO**
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about using conda for package management and 
-we will introduce python as a powerful language for scientific computing.
-By the end of this session you will be more familiar with the following topics:
+In this session we will learn about more advanced data structures and control
+flow mechanisms. By the end of this session you will be more familiar with the
+following topics:
 
-- Installing conda and managing conda environments for installing software
-- Launching jupyter notebooks on your local system
-- The python programming language for scientific computing
+- Dictionaries for storing and retrieving key/value pairs
+- Conditional branching with if/else statements
+- Defining functions to perform specific tasks
 
 
 ## :material-list-box-outline: Review and Discussion
-- Presentations of student GitHub Pages
-- Troubleshooting `git`
-- Link to [Lecture 4 slides](../../lectures/4.0/): Introducing conda for package management, and the python programming language
+- Review homework assignments
+- **TODO**: Link to [Lecture 4 slides](../../lectures/4.0/): Introducing conda for package management, and the python programming language
 
 ## :material-human-male-board-poll: In class exercises
-- [Tutorial 4.0: conda installer](../../tutorials/4.0-conda)
-- [Tutorial 4.1: jupyter notebook](../../tutorials/4.1-jupyter)
+- wat
+- do
 
 ## :material-list-box-outline: Assignments
-- Start thinking about a problem you might be interested in developing a tool to solve. Specifically think about what will be the data available (input) and what you want as the answer (output). We will start discussing project ideas next week (in a very preliminary way).
-- [Python tutorial chapters 1 and 3](https://docs.python.org/3/tutorial/)
-- [Tutorial 4.2: GitHub forking and Python assessment](../../tutorials/4.2-forking)
+- Python tutorial readings:
+    - [Chapter 4 (up to and including 4.9.3) on conditionals and functions](https://docs.python.org/3.13/tutorial/controlflow.html)
+    - [Chapter 5 (from 5.5 to the end) on Dictionaries](https://docs.python.org/3.13/tutorial/datastructures.html#dictionaries)
+
+- Tutorials covering [python dictionaries, conditionals, and functions](../../tutorials/6.0-python-advanced)
 
 ---------------------
 
