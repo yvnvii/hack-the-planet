@@ -30,7 +30,7 @@ programming langauge: variables, lists, and control flow. By the end of this
 session you will be more familiar with the following topics:
 
 - How to assign variables of different data types and perform basic manipulations
-- Creating lists and using slicing and indexing
+- Creating lists and using list indexing and slicing
 - Control flow using 'for' loops to iterate over lists
 
 ## :material-list-box-outline: Review and Discussion
