@@ -42,8 +42,8 @@ session you will be more familiar with the following topics:
 - Work through the first 9 genepy exercises (from 'Hello World' to 'Import')
 
 ## :material-list-box-outline: Assignments
-- [Python tutorial chapters 1 and 3](https://docs.python.org/3/tutorial/)
-- Problem sets for more practice on [python variables, lists, and for loops](../tutorials/5.0-python-part1.md)
+- Assigned problem set on [python variables, lists, and for loops](../tutorials/5.0-python-part1.md)
+- Supplementary Reading and additional practice problems: [30 Days Of Python: Day 10 - Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md)
 
 ---------------------
 
