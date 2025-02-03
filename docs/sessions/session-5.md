@@ -40,6 +40,8 @@ session you will be more familiar with the following topics:
 ## :material-human-male-board-poll: In class exercises
 - Create an account on [genepy.org](https://genepy.org/)
 - Work through the first 9 genepy exercises (from 'Hello World' to 'Import')
+- Project planning 1: What are the inputs and outputs of the project you have in mind? 
+What data is available and what is the 'answer' you want to get out of your tool?
 
 ## :material-list-box-outline: Assignments
 - Assigned problem set on [python variables, lists, and for loops](../tutorials/5.0-python-part1.md)
