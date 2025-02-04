@@ -11,7 +11,7 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* What is your lucky number (if you are at liberty to divulge it)?
+* What is one word that you enjoy, in any language, for whatever reason?
 ```python
 # Define the icebreaker procedure
 for student in class:
