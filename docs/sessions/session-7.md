@@ -28,6 +28,7 @@ following topics:
 
 ## :material-human-male-board-poll: In class exercises
 - wat
+- (IF NEEDED, we didn't do these yet) Work through the next 8 [genepy exercises](https://www.hackinscience.org/exercises/) (from 'Comparisons' to 'Temperatures')
 - do
 
 ## :material-list-box-outline: Assignments

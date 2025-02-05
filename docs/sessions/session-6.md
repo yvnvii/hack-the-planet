@@ -22,12 +22,16 @@ following topics:
 - Conditional branching with if/else statements
 - Defining functions to perform specific tasks
 
-
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
-- **TODO**: Link to [Lecture 6 slides](../../lectures/6.0/): Python dictionaries, conditional statements (if/else), and intro to function definitions
+- Continue w/ Project planning discussion for folks who didn't get to go on Tuesday:
+What are the inputs and outputs of the project you have in mind? What data is
+available and what is the 'answer' you want to get out of your tool?
+- Review homework assignments in small groups (2-3 people)
+    - For reference, here are our [solutions to Session 5 challenges](https://github.com/iao2122/hack-5-python/blob/main/notebooks/nb-5.3-seesion5-challenges.ipynb)
+- Link to [Lecture 6 slides](../../lectures/6.0/): Python dictionaries, conditional statements (if/else), and intro to function definitions
 
 ## :material-human-male-board-poll: In class exercises
+- In-class microproject: [The Wright-Fisher model](../../tutorials/6.1-microproject-wf)
 - Work through the next 8 [genepy exercises](https://www.hackinscience.org/exercises/) (from 'Comparisons' to 'Temperatures')
 
 ## :material-list-box-outline: Assignments
@@ -36,7 +40,9 @@ following topics:
     - [Chapter 5 (from 5.5 to the end) on Dictionaries](https://docs.python.org/3.13/tutorial/datastructures.html#dictionaries)
 
 - Problem sets covering [python dictionaries, conditionals, and functions](../tutorials/6.0-python-part2.md)
-
+- Supplementary Reading and additional practice problems:
+    - [30 Days Of Python: Dictionaries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/08_Day_Dictionaries/08_dictionaries.md)
+    - [30 Days of Python: Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md)
 ---------------------
 
 

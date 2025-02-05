@@ -81,7 +81,7 @@ nav:
     - Session 3 - (1/28): sessions/session-3
     - Session 4 - (1/30): sessions/session-4.md
     - Session 5 - (2/4): sessions/session-5.md
-    # - Session 6 - (2/6): sessions/session-6.md
+    - Session 6 - (2/6): sessions/session-6.md
     # - Session 7 - (2/11): sessions/session-7.md
     # - Session 8 - (2/13): sessions/session-8.md
   - Tutorials:
@@ -98,7 +98,7 @@ nav:
         - 4.1 -- jupyter: tutorials/4.1-jupyter
         - 4.2 -- GitHub fork: tutorials/4.2-forking
     - Session 5 - (2/4):
-        - 5.0 -- Coding Editors: tutorials/5.0-coding-editors
+        - 5.0 -- Python variables, lists, loops: tutorials/5.0-python-part1
     # - Session 6 - (2/6):
     #     - 6.0 -- Python (dict, if/else, functions): tutorials/6.0-python-part2
     # - Session 7 - (2/11):
