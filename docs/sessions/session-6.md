@@ -32,7 +32,6 @@ available and what is the 'answer' you want to get out of your tool?
 
 ## :material-human-male-board-poll: In class exercises
 - In-class microproject: [The Wright-Fisher model](../../tutorials/6.1-microproject-wf)
-- Work through the next 8 [genepy exercises](https://www.hackinscience.org/exercises/) (from 'Comparisons' to 'Temperatures')
 
 ## :material-list-box-outline: Assignments
 - Python tutorial readings:
