@@ -11,7 +11,7 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* What is something you enjoy doing when you are not writing python programs?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about more advanced data structures and control
