@@ -101,6 +101,7 @@ nav:
         - 5.0 -- Python variables, lists, loops: tutorials/5.0-python-part1
     - Session 6 - (2/6):
         - 6.0 -- Python (dict, if/else, functions): tutorials/6.0-python-part2
+        - 6.1 -- Wright-Fisher model miniproject: tutorials/6.1-microproject-wf
     # - Session 7 - (2/11):
     #     - pass
     # - Session 8 - (2/13):
