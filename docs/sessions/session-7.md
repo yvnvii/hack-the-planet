@@ -23,8 +23,7 @@ following topics:
 
 
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
-- Link to [Lecture 4 slides](../../lectures/4.0/): Introducing conda for package management, and the python programming language
+- Review [homework assignments answers posted to github](https://github.com/hackers-test/hack-6-python/tree/5b67ace81104c867d9655acea8184980b3f24c3b/notebooks)
 
 ## :material-human-male-board-poll: In class exercises
 - wat
