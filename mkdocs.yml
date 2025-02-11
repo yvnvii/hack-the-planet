@@ -102,8 +102,11 @@ nav:
     - Session 6 - (2/6):
         - 6.0 -- Python (dict, if/else, functions): tutorials/6.0-python-part2
         - 6.1 -- Wright-Fisher model miniproject: tutorials/6.1-microproject-wf
-    # - Session 7 - (2/11):
-    #     - pass
+    - Session 7 - (2/11):
+        - 7.0 -- Subprocess: tutorials/7.0-subprocess
+        - 7.1 -- Think-functionally: tutorials/7.1-think
+        - 7.2 -- Scripting: tutorials/7.2-scripting
+        - 7.3 -- Imports: tutorials/7.3-imports
     # - Session 8 - (2/13):
     #     - pass
 

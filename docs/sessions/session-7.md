@@ -10,29 +10,42 @@ day: Tu
   ![hackers-1](../assets/images/hackers-panel.png)
 </figure>
 
-## Icebreaker question
-* **TODO**
+
+## Icebreaker question  
+If you could magically change one annoying thing about coding forever, what would it be?
+
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about ... **TODO**
-By the end of this session you will be more familiar with the
-following topics:
 
-- **TODO**
-- **TODO**
+- Review the assignments  
+- Review the WF micro-project  
+- Introduce classes  
+- Introduce some other upcoming Python tricks  
+- Discuss Exception handling
 
 
 ## :material-list-box-outline: Review and Discussion
+
 - Review [homework assignments answers posted to github](https://github.com/hackers-test/hack-6-python/tree/5b67ace81104c867d9655acea8184980b3f24c3b/notebooks)
 
+
 ## :material-human-male-board-poll: In class exercises
-- wat
-- (IF NEEDED, we didn't do these yet) Work through the next 8 [genepy exercises](https://www.hackinscience.org/exercises/) (from 'Comparisons' to 'Temperatures')
-- do
+
+- micro-project hacking
+<!-- - optional: the next 8 [genepy exercises](https://www.hackinscience.org/exercises/) (from 'Comparisons' to 'Temperatures') -->
+
 
 ## :material-list-box-outline: Assignments
-- **Assign readings**
-- **FIXME** Tutorials covering [python dictionaries, conditionals, and functions](../../tutorials/6.0-python-advanced)
+
+- Read Python tutorial chapter 8 (Exceptions): [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html)
+- Read Python tutorial chapter 9 (Classes): [https://docs.python.org/3/tutorial/classes.html](https://docs.python.org/3/tutorial/classes.html)
+- Read Python tutorial chapter 10 (standard library): [https://docs.python.org/3/tutorial/stdlib.html](https://docs.python.org/3/tutorial/stdlib.html)
+
+- Complete tutorial [7.0-subprocess](../../tutorials/7.0-subprocess)
+- Complete tutorial [7.1-think](../../tutorials/7.1-think)
+- Complete tutorial [7.2-scripting](../../tutorials/7.2-scripting)
+- Complete tutorial [7.3-imports](../../tutorials/7.3-imports)
+
 
 ---------------------
 
