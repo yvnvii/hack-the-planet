@@ -28,12 +28,12 @@ be more familiar with the following topics:
 - Review homework assignments
 
 ## :material-human-male-board-poll: In class exercises
-- Link to [Lecture 8 slides](../../lectures/8.0/): **TODO**
-- [Implementing the WF model as a Python class](../../tutorials/8.0-wf-class)
+- Link to Lecture 8 slides: [Python Classes & Scientific Python (numpy/pandas)](../../lectures/8.0/)
+- In class coding activity: [Implementing the WF model as a Python class](../../tutorials/8.0-wf-class)
 
 ## :material-list-box-outline: Assignments
 - Read [Python Data Science Handbook Ch 2 & 3 (numpy & pandas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- **TODO** Tutorials covering [numpy & pandas](../../tutorials/8.0-numpy_pandas)
+- Tutorials covering [numpy & pandas](../../tutorials/8.1-data-science)
 
 ---------------------
 
