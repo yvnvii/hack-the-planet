@@ -1,5 +1,5 @@
 ---
-title: Session 4
+title: Session 8
 topic: Scientific python - numpy, pandas, scipy
 date: 2025-02-13
 day: Th
@@ -11,25 +11,25 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* **Need icebreaker**
+* What is one thing science will never understand?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about more advanced data structures and control
-flow mechanisms. By the end of this session you will be more familiar with the
-following topics:
+In this session we will learn about object oriented programming and advanced
+python modules for scientific programming. By the end of this session you will 
+be more familiar with the following topics:
 
-- numpy
-- pandas
-- scipy
+- Python classes, including data attributes and methods
+- numpy: Efficient numerical computing tools
+- pandas: Structured data analysis and manipulation
+- scipy: Scientific computing algorithms
 
 
 ## :material-list-box-outline: Review and Discussion
 - Review homework assignments
-- Link to [Lecture 8 slides](../../lectures/8.0/): **TODO**
 
 ## :material-human-male-board-poll: In class exercises
-- wat
-- do
+- Link to [Lecture 8 slides](../../lectures/8.0/): **TODO**
+- [Implementing the WF model as a Python class](../../tutorials/8.0-wf-class)
 
 ## :material-list-box-outline: Assignments
 - Read [Python Data Science Handbook Ch 2 & 3 (numpy & pandas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
