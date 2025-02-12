@@ -35,6 +35,13 @@ be more familiar with the following topics:
 - Read [Python Data Science Handbook Ch 2 & 3 (numpy & pandas)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Tutorials covering [numpy & pandas](../../tutorials/8.1-data-science)
 
+### :material-list-box-outline: Additional numpy/pandas learning resources
+- [101 NumPy Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+- [Practical Tutorial on Data Manipulation with Numpy and Pandas in Python](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
+- [100 numpy exercises w/ hints & solutions (github)](https://github.com/rougier/numpy-100)
+- [Pandas exercises w/ solutions (github)](https://github.com/guipsamora/pandas_exercises)
+- [100 Pandas puzzles (github)](https://github.com/ajcr/100-pandas-puzzles/tree/master)
+
 ---------------------
 
 
