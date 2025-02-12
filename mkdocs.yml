@@ -84,6 +84,8 @@ nav:
     - Session 6 - (2/6): sessions/session-6.md
     - Session 7 - (2/11): sessions/session-7.md
     - Session 8 - (2/13): sessions/session-8.md
+    ## - Session 9 - (2/18): sessions/session-9.md
+    ## - Session 10 - (2/20): sessions/session-10.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github
@@ -109,6 +111,10 @@ nav:
         - 7.3 -- Imports: tutorials/7.3-imports
     - Session 8 - (2/13):
         - 8.0 -- Classes: tutorials/8.0-wf-class
+    # - Session 9 - (2/18):
+    #     - 9.0 -- Classes: tutorials/XX
+    # - Session 10 - (2/20):
+    #     - 10.0 -- Classes: tutorials/XX
 
   - Resources: 
     - project presentations: pages/presentations
