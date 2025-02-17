@@ -11,25 +11,30 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* If you're on an outing, how many owls would you have to see before you got suspicious?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
-be more familiar with the following topics:
+In this session we will learn about 'scripting' which means creating executable python
+code that can be run at the command line, like other CLI programs. By the end of this
+session you will be more familiar with the following topics:
 
-- XXX
-- XXX
-
+- How to structure a python script
+- The `__main__` keyword
+- Using `argparse` to read command line arguments
+- Logging script processes
 
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+Review homework assignments:
+
+- [WF model as a python class](https://github.com/iao2122/hack-5-python/blob/main/notebooks/wf.ipynb)
+- [Revisiting the Iris data w/ numpy/padas](https://github.com/iao2122/hack-5-python/blob/main/notebooks/iris_pd.ipynb)
 
 ## :material-human-male-board-poll: In class exercises
 - **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
 
 ## :material-list-box-outline: Assignments
 - **TODO** Readings
-- **TODO** Tutorials 
+- [9.1 Scripting tutorial](../tutorials/9.0-scripting.md)
 
 ---------------------
 
