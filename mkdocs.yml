@@ -112,8 +112,9 @@ nav:
     - Session 8 - (2/13):
         - 8.0 -- Classes: tutorials/8.0-wf-class
         - 8.1 -- Data Science: tutorials/8.1-data-science
-    # - Session 9 - (2/18):
-    #     - 9.0 -- Classes: tutorials/XX
+    - Session 9 - (2/18):
+        - 9.0 -- Scripting basics: tutorials/9.0-scripting.md
+        - 9.1 -- Scripting the WF model: tutorials/9.1-wf-script.md
     # - Session 10 - (2/20):
     #     - 10.0 -- Classes: tutorials/XX
 

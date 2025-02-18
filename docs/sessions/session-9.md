@@ -30,11 +30,11 @@ Review homework assignments:
 - [Revisiting the Iris data w/ numpy/padas](https://github.com/iao2122/hack-5-python/blob/main/notebooks/iris_pd.ipynb)
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- [9.0 Scripting tutorial](../tutorials/9.0-scripting.md)
 
 ## :material-list-box-outline: Assignments
-- **TODO** Readings
-- [9.1 Scripting tutorial](../tutorials/9.0-scripting.md)
+- Read the [python argparse tutorial](https://docs.python.org/3/howto/argparse.html)
+- [9.1 Scripting the WF model](../tutorials/9.1-wf-script.md)
 
 ---------------------
 
