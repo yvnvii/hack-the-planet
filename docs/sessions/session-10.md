@@ -11,25 +11,27 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* [What coding superpower (or other superpower) would you like to have?](https://www.menti.com/alb746ukn3vp)
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
+In this session we will learn about coding modern coding editors, linting,
+and other coding support tools. By the end of this session you will 
 be more familiar with the following topics:
 
-- XXX
-- XXX
+- Sublime Text
+- Linting
 
 
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+- Review [WF as a python script](https://github.com/iao2122/hack-5-python/blob/main/notebooks/wf-script.py)
 
 ## :material-human-male-board-poll: In class exercises
 - **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
 
 ## :material-list-box-outline: Assignments
-- **TODO** Readings
-- **TODO** Tutorials 
+- [Read Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+- [Read python Style guide](https://docs.python-guide.org/writing/style/)
+- [Tutorial 10.1 styling](../../tutorials/10.1-style)
 
 ---------------------
 

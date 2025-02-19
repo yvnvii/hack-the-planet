@@ -85,7 +85,7 @@ nav:
     - Session 7 - (2/11): sessions/session-7.md
     - Session 8 - (2/13): sessions/session-8.md
     - Session 9 - (2/18): sessions/session-9.md
-    ## - Session 10 - (2/20): sessions/session-10.md
+    - Session 10 - (2/20): sessions/session-10.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github
@@ -115,8 +115,8 @@ nav:
     - Session 9 - (2/18):
         - 9.0 -- Scripting basics: tutorials/9.0-scripting.md
         - 9.1 -- Scripting the WF model: tutorials/9.1-wf-script.md
-    # - Session 10 - (2/20):
-    #     - 10.0 -- Classes: tutorials/XX
+    - Session 10 - (2/20):
+        - 10.1 -- Style: tutorials/10.1-style.md
 
   - Resources: 
     - project presentations: pages/presentations
