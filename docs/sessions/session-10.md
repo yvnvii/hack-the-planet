@@ -26,11 +26,13 @@ be more familiar with the following topics:
 - Review [WF as a python script](https://github.com/iao2122/hack-5-python/blob/main/notebooks/wf-script.py)
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- In class live-demo with Sublime text & linting
+- Discuss the miniproject ideas
 
 ## :material-list-box-outline: Assignments
 - [Read Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 - [Read python Style guide](https://docs.python-guide.org/writing/style/)
+- [Tutorial 10.0 Sublime text](../../tutorials/9.0a-sublimetext3.md)
 - [Tutorial 10.1 styling](../../tutorials/10.1-style)
 
 ---------------------
