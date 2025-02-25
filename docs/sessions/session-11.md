@@ -11,7 +11,7 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* What is your favorite magical or mythological creature and why?
 
 ## :material-book-variant: Learning objectives
 In this session we will estlish a repository for our mini-projects
