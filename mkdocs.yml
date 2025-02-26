@@ -87,7 +87,7 @@ nav:
     - Session 9 - (2/18): sessions/session-9.md
     - Session 10 - (2/20): sessions/session-10.md
     - Session 11 - (2/25): sessions/session-11.md
-    ## - Session 12 - (2/27): sessions/session-12.md
+    - Session 12 - (2/27): sessions/session-12.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github
@@ -120,6 +120,10 @@ nav:
     - Session 10 - (2/20):
         - 10.0 -- Sublime text: tutorials/10.0-sublimetext3.md
         - 10.1 -- Style: tutorials/10.1-style.md
+    - Session 11 - (2/25):
+        - 11.0 -- Mini-project kickoff: tutorials/11.0-miniproject-kickoff.md
+    - Session 12 - (2/27):
+        - 12.0 -- REST APIs for Bio Data: tutorials/12.0-api-access.md
 
   - Resources:
     - project proposals: pages/proposals

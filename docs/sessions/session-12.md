@@ -1,8 +1,8 @@
 ---
-title: Session 9
-topic: Python scripting - main, argparse, logging
-date: 2025-02-18
-day: Tu
+title: Session 12
+topic: Exploring access to biological data
+date: 2025-02-27
+day: Th
 ---
 
 
@@ -11,7 +11,8 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* If you were hosting a dinner party and could invite any 3
+people (either living or dead), who would they be?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about.... By the end of this session you will 
@@ -29,7 +30,9 @@ be more familiar with the following topics:
 
 ## :material-list-box-outline: Assignments
 - **TODO** Readings
-- **TODO** Tutorials 
+- [Lecture 12](../../lectures/12.0/index_bak.html)
+- [APIs Tutorial](../../tutorials/12.0-api-access)
+
 
 ---------------------
 

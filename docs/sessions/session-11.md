@@ -13,6 +13,11 @@ day: Tu
 ## Icebreaker question
 * What is your favorite magical or mythological creature and why?
 
+- Kurukurupira (Brazil), Nidhaug (Norse), Flying bison from Avatar the last 
+airbender, Jackalope (American), Basilisk (Greek), Loch Ness Monster (Scotland),
+Nekomata (Japan), Phoenix (Traditional), Dijang (headless furry creature with 
+four wings presents luck and power; China), Selkie (European)
+
 ## :material-book-variant: Learning objectives
 In this session we will estlish a repository for our mini-projects
 and start filling it in. By the end of this session you will 
