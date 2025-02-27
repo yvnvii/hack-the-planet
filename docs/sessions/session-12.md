@@ -15,24 +15,24 @@ day: Th
 people (either living or dead), who would they be?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
-be more familiar with the following topics:
+In this session we will learn about accessing biological data online
+using REST APIs. By the end of this session you will be more familiar 
+with the following topics:
 
-- XXX
-- XXX
+- The format of JSON data
+- Using API calls to access data online
 
 
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+- Check-in on mini-projects
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- [Lecture 12: Accessing biological data online with REST APIs](../../lectures/12.0/index.html)
+- [Tutorial 12.0: REST APIs](../../tutorials/12.0-api-access)
+- [Tutorial 12.1: VCF files](../../tutorials/12.1-vcf-files)
 
 ## :material-list-box-outline: Assignments
-- **TODO** Readings
-- [Lecture 12](../../lectures/12.0/index_bak.html)
-- [APIs Tutorial](../../tutorials/12.0-api-access)
-
+- Continue working on your mini-projects, we will have a status check-in next week.
 
 ---------------------
 

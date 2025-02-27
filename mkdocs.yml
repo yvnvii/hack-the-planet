@@ -124,6 +124,7 @@ nav:
         - 11.0 -- Mini-project kickoff: tutorials/11.0-miniproject-kickoff.md
     - Session 12 - (2/27):
         - 12.0 -- REST APIs for Bio Data: tutorials/12.0-api-access.md
+        - 12.1 -- VCF Files: tutorials/12.1-vcf-files.md
 
   - Resources:
     - project proposals: pages/proposals
