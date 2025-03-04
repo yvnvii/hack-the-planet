@@ -22,7 +22,7 @@ In this session we will learn about using ChatGPT as a coding co-pilot, and tryi
 ## :material-human-male-board-poll: In class exercises
 - [Icebroken activity](../../tutorials/13.0-DebuggingChallenges)
 - Can you get ChatGPT to help with your mini-project? AI assistance and follow-up discussion
-- Mini-project hack-a-thon with check-ins on progress and milestone planning
+- Mini-project hack-a-thon with check-ins on progress and milestone planning using GitHub Projects
 
 ## :material-list-box-outline: Assignments
 - Continue working on your mini-project
