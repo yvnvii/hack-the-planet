@@ -35,3 +35,9 @@ mkdocs serve
 Currently the old class structure is still present in the `old-docs` directory. Parts of this
 can be updated and moved to the new `docs/` directory to be integrated into the new site. 
 
+## Other useful programming for biologists courses
+- [Computing Skills for Biologists (Allesina & Wilmes; the most up-to-date and nice)](https://computingskillsforbiologists.com/downloads/exercises/#scientific)
+- [Python for Biologists](https://www.pythonforbiologists.org/)
+- [Programming for Biologists (Ethan White)](https://www.programmingforbiologists.org/)
+- [Data Science for Biologists (UW)](https://github.com/eleanorlutz/Data_science_for_biologists_2019/tree/main)
+
