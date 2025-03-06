@@ -26,6 +26,7 @@ In this session we will learn about plotting and visualization with Matplotlib. 
 ## :material-human-male-board-poll: In class exercises
 - [Icebroken activity](../../tutorials/14.0-DebuggingChallenges2)
 - [Data visualization with Matplotlib](../../tutorials/14.1-intro-plotting)
+- Mini-project check-ins and strategizing
 
 ## :material-list-box-outline: Assignments
 - Continue working on your mini-project (**NB:** These are due in 1 week)
