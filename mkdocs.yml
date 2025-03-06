@@ -89,7 +89,7 @@ nav:
     - Session 11 - (2/25): sessions/session-11.md
     - Session 12 - (2/27): sessions/session-12.md
     - Session 13 - (3/4): sessions/session-13.md
-    ## - Session 14 - (3/6): sessions/session-14.md
+    - Session 14 - (3/6): sessions/session-14.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github
@@ -129,8 +129,9 @@ nav:
         - 12.1 -- VCF Files: tutorials/12.1-vcf-files.md
     - Session 13 - (3/4):
         - 13.0 -- Debugging Challenges: tutorials/13.0-DebuggingChallenges.md
-    #- Session 14 - (3/6):
-    #    - 14.0 -- Scipy: tutorials/13.0-scipy.md
+    - Session 14 - (3/6):
+        - 14.0 -- Debugging Challenges 2: tutorials/14.0-DebuggingChallenges2.md
+        - 14.1 -- Data Visualization: tutorials/14.1-intro-plotting.md
 
   - Resources:
     - project proposals: pages/proposals
