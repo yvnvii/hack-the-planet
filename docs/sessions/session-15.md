@@ -1,0 +1,44 @@
+---
+title: Session 15
+topic: Machine Learning - Scikit-learn
+date: 2025-03-11
+day: Tu
+---
+
+
+<figure markdown="span">
+  ![hackers-1](../assets/images/hackers-panel.png)
+</figure>
+
+## Icebreaker question
+* What is your favorite movie?
+
+## :material-book-variant: Learning objectives
+In this session we will learn about the basics of machine learning. By the end of this session you will 
+be more familiar with the following topics:
+
+- The Scikit-learn API
+- Supvervised vs unsupervised learning
+- Classification and Regression model fitting
+
+
+## :material-list-box-outline: Review and Discussion
+- Review homework assignments
+
+## :material-human-male-board-poll: In class exercises
+- [scikit-learn notebook](../../../notebooks/nb-2.0-bash-practice.ipynb)
+- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+
+## :material-list-box-outline: Assignments
+- Wrap-up your mini-project and be prepared to share what you have with the class on Thursday. 
+
+---------------------
+
+
+<figure markdown="span">
+  ![hackers-1](../assets/images/hackers-3.webp){width="800"}
+</figure>
+
+<!-- Notes
+* Show the github 'Preview' tab
+-->
