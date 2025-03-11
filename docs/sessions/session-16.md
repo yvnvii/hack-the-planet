@@ -11,7 +11,7 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* If you could bring back any fashion trend, what would it be?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about.... By the end of this session you will 
