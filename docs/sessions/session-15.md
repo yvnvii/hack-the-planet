@@ -19,7 +19,8 @@ In this session we will learn about the basics of machine learning. By the end o
 be more familiar with the following topics:
 
 - The Scikit-learn API
-- Supvervised vs unsupervised learning
+- Dimension reduction/decomposition
+- Supervised vs unsupervised learning
 - Classification and Regression model fitting
 
 ## :material-human-male-board-poll: In class exercises
