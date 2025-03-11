@@ -21,13 +21,12 @@ be more familiar with the following topics:
 - Supvervised vs unsupervised learning
 - Classification and Regression model fitting
 
-
 ## :material-list-box-outline: Review and Discussion
 - Review homework assignments
 
 ## :material-human-male-board-poll: In class exercises
-- [scikit-learn notebook](../../../notebooks/nb-2.0-bash-practice.ipynb)
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- [Icebroken activity](../../tutorials/15.0-DebuggingChallenge3)
+- [Intro to machine learning w/ scikit-learn](../../tutorials/15.1-intro-scikit)
 
 ## :material-list-box-outline: Assignments
 - Wrap-up your mini-project and be prepared to share what you have with the class on Thursday. 
