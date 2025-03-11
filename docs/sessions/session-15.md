@@ -12,6 +12,7 @@ day: Tu
 
 ## Icebreaker question
 * What is your favorite movie?
+    * Who's afraid of virginia woolf?; 
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about the basics of machine learning. By the end of this session you will 
@@ -20,9 +21,6 @@ be more familiar with the following topics:
 - The Scikit-learn API
 - Supvervised vs unsupervised learning
 - Classification and Regression model fitting
-
-## :material-list-box-outline: Review and Discussion
-- Review homework assignments
 
 ## :material-human-male-board-poll: In class exercises
 - [Icebroken activity](../../tutorials/15.0-DebuggingChallenge3)
