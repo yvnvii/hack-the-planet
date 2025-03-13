@@ -91,7 +91,7 @@ nav:
     - Session 13 - (3/4): sessions/session-13.md
     - Session 14 - (3/6): sessions/session-14.md
     - Session 15 - (3/11): sessions/session-15.md
-    #- Session 16 - (3/13): sessions/session-16.md
+    - Session 16 - (3/13): sessions/session-16.md
   - Tutorials:
     - Session 2 - (1/23):
         - 2.0 -- GitHub: tutorials/2.0-github

@@ -12,7 +12,7 @@ day: Tu
 
 ## Icebreaker question
 * What is your favorite movie?
-    * Who's afraid of virginia woolf?; 
+    * Who's afraid of virginia woolf?; Hitchiker's guide to the galaxy; About time; She's the man; Halloweentown; Shining; Spirited Away & !Complete Unknown; Interstellar; []
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about the basics of machine learning. By the end of this session you will 

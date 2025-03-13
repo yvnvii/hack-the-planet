@@ -9,7 +9,7 @@ image: /assets/images/hackers-1.jpg
 Guidelines:
 
 - Your project must be written (primarily) in Python.
-- The project pre-proposal must be approved by the Instructors
+- The project proposal must be approved by the Instructors
 
 Due date and expectations:
 - Your proposal will be graded on all of the components based on their
@@ -19,16 +19,16 @@ vary among students depending on your prior experience.
 
 
 ### Getting started
-Once your project pre-proposal is approved you can begin to create 
-your project repository. To do this, change the name of your `project` 
-repo to a new name representing what you want your project to be called. 
-This can be done from the settings page of the repo on GitHub.
+Assuming that your mini-project will be the springboard for your final
+project you can begin to create you can begin by changing the name of 
+your `mini-project` repo to a new name representing what you want your 
+project to be called (if you haven't already done so). This can be done 
+from the settings page of the repo on GitHub.
 
 Once you have changed the name of your repo you can now clone it to your
 laptop, or if you have already done so, you can continue to use your existing
-clone (it can handle keeping up with the name change). You can now add the
-following files and folders to create your starting project file structure, 
-with all files and folders renamed as you would like. 
+clone (it can handle keeping up with the name change). If you have not already
+done so, you can now add the following files and folders to create your starting project file structure, with all files and folders renamed as you would like. 
 
 ```
 project/
@@ -40,13 +40,14 @@ project/
 ```
 
 ### Proposal
-Your project repo currently has your pre-proposal written in the README.md
-file. Rename this file to be `proposal.md` and create a new empty README.md
-file that will serve as the README for your project. The `proposal.md` file
-will serve as your official project proposal.
+Your project repo currently has your mini-project proposal written in the 
+README.md file. Create a copy of this file called `proposal.md`, as a starting
+point for your official project proposal. The `proposal.md` file in the root
+of your project repo will be the file we will reference for evaluating
+your proposal.
 
-In this proposal you should expand upon the contents in your pre-proposal
-to incorporate any feedback that we provided previously, and to update it
+In this proposal you should expand upon the contents in your mini-project
+proposal to incorporate any feedback that we provided previously, and to update it
 with any new ideas or progress you have made in designing your project.
 Using markdown, you should create nicely formatted headings and paragraphs
 to list the following topics and your answers:
@@ -123,7 +124,7 @@ working example. Once you have this minimal working example it will be easier
 for others to collaborate on your code with you.
 
 
-### README.md
+### Update your README.md
 
 - Write the name of your program as a level-1 header
 - Copy your answer about what task/goal your project is intended to accomplish
@@ -159,8 +160,8 @@ in a later session.
 ### Make your project known
 
 Navigate to the following page on GitHub 
-<a href="https://github.com/eaton-lab/hack-the-planet/blob/master/docs/_data/usernames.csv">
-https://github.com/eaton-lab/hack-the-planet/blob/master/docs/_data/usernames.csv</a>
+<a href="https://github.com/eaton-lab/hack-the-planet/blob/master/docs/data/usernames.csv">
+https://github.com/eaton-lab/hack-the-planet/blob/master/docs/data/usernames.csv</a>
 where the course website is hosted
 and click on the 'pen' icon to fork and edit the file. Next to your username
 where it currently says TBD enter the new name of your project repository

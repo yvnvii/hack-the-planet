@@ -14,22 +14,17 @@ day: Th
 * If you could bring back any fashion trend, what would it be?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
-be more familiar with the following topics:
-
-- XXX
-- XXX
-
-
-## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+In this session we will learn about.... By the end of this session you
+will be more familiar with the following topics:
+- Supervised vs unsupervised learning
+- Classification and Regression model fitting
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- Mini-project presentations
+- [Intro to machine learning w/ scikit-learn](../../tutorials/15.1-intro-scikit)
 
 ## :material-list-box-outline: Assignments
 - The primary assignment for break is to write up your [full project proposal](../../pages/proposals), which will be due the first Thursday after break (**3/27/25**).
-- **TODO** Tutorials 
 
 ---------------------
 
