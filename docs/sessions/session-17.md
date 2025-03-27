@@ -11,7 +11,7 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* What class in high school had a major impact on your education?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about advanced usage of GitHub. By the end of this session you will 
