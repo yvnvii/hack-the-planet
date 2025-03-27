@@ -11,26 +11,17 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* What class in high school had a major impact on your education?
+* **TODO**
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about advanced usage of GitHub. By the end of this session you will 
-be more familiar with how to collaborate with others using git and GitHub. We will cover the
-following:
-
-- GitHub forks and git remotes
-- Resolving git conflicts
-- Issues and Pull Requests
-- Pair programming
+In this class we will conduct paired-programming to evaluate each other's project
+repositories and give feedback on the codebase and proposals.
 
 ## :material-list-box-outline: Review and Discussion
 - Discussion of project proposals
 
 ## :material-human-male-board-poll: In class exercises
-<!-- - **TODO** Link to [Lecture XX slides](../../lectures/XX/)  -->
-- [17.0 - git collab](../../tutorials/17.0-git-collab)
-- [17.1 - git conflicts](../../tutorials/17.1-git-conflict)
-- [17.2 - git in class](../../tutorials/17.2-git-in-class)
+- [18.1 - git collab](../../tutorials/18.1-git-collab-assign)
 
 ## :material-list-box-outline: Assignments
 - None
